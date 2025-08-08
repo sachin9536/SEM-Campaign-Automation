@@ -1,0 +1,165 @@
+# # Test Configuration for SEM Automation Tool
+# # This is a minimal config for testing - replace with real data for production
+
+# brand:
+#   name: "TechStart Solutions"
+#   website: "https://techstartsolutions.com"
+#   description: "We provide web development and digital marketing services for startups and small businesses"
+
+# # Test with 1-2 competitors first
+# competitors:
+#   - name: "Webflow"
+#     website: "https://webflow.com"
+
+# # Start with 1-2 locations  
+# locations:
+#   - name: "San Francisco, CA"
+#     radius_miles: 25
+#     priority: "high"
+#   - name: "New York, NY" 
+#     radius_miles: 30
+#     priority: "medium"
+
+# # Conservative test budgets
+# budgets:
+#   daily_budget: 50
+#   monthly_budget: 1500
+#   max_cpc: 3.00
+#   target_roas: 4.0
+#   shopping_ads_budget: 15
+#   search_ads_budget: 25
+#   pmax_ads_budget: 10
+
+# # Keyword settings - lower thresholds for testing
+# keywords:
+#   min_search_volume: 100  # Lower for testing
+#   max_keywords_per_ad_group: 15
+#   similarity_threshold: 0.8
+#   difficulty_categories: ["low", "medium", "high"]
+
+# # Campaign settings
+# campaign:
+#   name: "TechStart Solutions Campaign"
+#   type: "search"
+#   status: "active"
+#   start_date: "2024-01-01"
+#   end_date: "2024-12-31"
+
+# # Performance Max settings
+# performance_max:
+#   enabled: true
+#   asset_requirements:
+#     headlines:
+#       min: 5
+#       max: 15
+#     descriptions:
+#       min: 5
+#       max: 5
+#     images:
+#       min: 1
+#       max: 20
+#     videos:
+#       min: 0
+#       max: 5
+#     logos:
+#       min: 1
+#       max: 5
+#     call_to_actions:
+#       min: 1
+#       max: 10
+#     final_urls:
+#       min: 1
+#       max: 20
+#     display_urls:
+#       min: 1
+#       max: 20
+#   budget_allocation:
+#     pmax_percentage: 0.7
+#     shopping_percentage: 0.3
+#   theme_priorities:
+#     brand: 3
+#     transactional: 3
+#     commercial: 2
+#     category: 2
+#     location: 2
+#     competitor: 1
+#     long_tail: 1
+#     informational: 1
+
+# # Shopping settings
+# shopping:
+#   enabled: true
+#   product_feed_url: ""
+#   merchant_id: ""
+#   country: "US"
+#   language: "en"
+#   bid_modifiers:
+#     mobile: 1.1
+#     tablet: 1.0
+#     desktop: 1.2
+#   product_grouping:
+#     services_budget_percentage: 0.4
+#     products_budget_percentage: 0.6
+
+# # Ad generation settings
+# ads:
+#   max_headlines: 15
+#   max_descriptions: 4
+#   headline_max_length: 30
+#   description_max_length: 90
+#   use_ai_generation: true
+#   include_brand_name: true
+
+# # Targeting settings
+# targeting:
+#   languages: ["en"]
+#   devices: ["mobile", "desktop", "tablet"]
+#   age_ranges: ["18-24", "25-34", "35-44", "45-54", "55-64"]
+#   genders: ["male", "female", "unknown"]
+
+# # Output settings
+# output:
+#   export_formats: ["csv", "json"]
+#   include_google_ads_format: true
+#   generate_reports: true
+#   create_visualizations: true
+
+# # Logging settings  
+# logging:
+#   level: "INFO"
+#   file: "sem_automation.log"
+#   console: true
+
+# # Scraping settings
+# scraping:
+#   use_selenium: false
+brand:
+  name: "Zomato"
+  website: "https://www.zomato.com/"
+
+competitors:
+  - name: "Swiggy"
+    website: "https://www.swiggy.com"
+
+locations:
+  - name: "India"
+    # radius_miles: 25
+    priority: "high"
+
+budgets:
+  daily_budget: 500
+  monthly_budget: 15000
+  max_cpc: 3.00
+  target_roas: 4.0
+  shopping_ads_budget: 150
+  search_ads_budget: 250
+  pmax_ads_budget: 100
+
+scraping:
+  use_selenium: false
+reports:
+  use_ai_generation: true
+ads:
+  use_ai_generation: true
+content_analyzer:
+  use_ai_generation: true
