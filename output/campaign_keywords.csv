@@ -1,0 +1,207 @@
+ad_group_id,ad_group_name,keyword,match_type,search_intent,keyword_theme,search_volume,search_volume_category,competition,cpc,commercial_intent,difficulty_score,difficulty_category,relevance_score,source
+ad_group_001,Zomato_Brand_Keywords,zomato food delivery,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,swiggy zomato,broad,unknown,unknown,5000,medium,0.6,2.0,0.0,0,unknown,0.31000000000000005,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,discover best restaurants zomato,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,best restaurants on zomato,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,download zomato app,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,find restaurants near me zomato,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,+zomato +food +delivery,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,+zomato +best +restaurants,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,+zomato +restaurant +discovery,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,+zomato +online +food +order,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,+swiggy +zomato +comparison,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,what is Zomato pro,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,how to find restaurants on Zomato,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,how to use Zomato app,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,what are the benefits of Zomato Gold,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,Zomato login,broad,unknown,unknown,5000,medium,0.6,2.0,0.0,0,unknown,0.31000000000000005,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,Zomato website,broad,unknown,unknown,5000,medium,0.6,2.0,0.0,0,unknown,0.31000000000000005,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,Zomato customer care,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,top restaurants in Mumbai Zomato,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,Zomato restaurant reviews,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,best deals on Zomato,phrase,unknown,unknown,1000,high,0.3,1.4,0.3,0,unknown,0.3999999999999999,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,Zomato Gold membership cost,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,Zomato discounts,broad,unknown,unknown,5000,medium,0.6,2.0,0.15,0,unknown,0.35500000000000004,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,order food Zomato app,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,Zomato online order,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,order food now Zomato,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,place Zomato order,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,Zomato order tracking,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,book a table Zomato,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_expansion
+ad_group_001,Zomato_Brand_Keywords,zomato vs order food,phrase,unknown,unknown,1000,low,0.3,1.4,0.3,0,unknown,0.3999999999999999,llm_competitor_based
+ad_group_001,Zomato_Brand_Keywords,zomato better deals,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_competitor_based
+ad_group_001,Zomato_Brand_Keywords,Zomato restaurants Delhi NCR,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_location_based
+ad_group_001,Zomato_Brand_Keywords,best restaurants Bangalore Zomato,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_location_based
+ad_group_001,Zomato_Brand_Keywords,dining options Hyderabad Zomato,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_location_based
+ad_group_001,Zomato_Brand_Keywords,Zomato service Kolkata,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_location_based
+ad_group_001,Zomato_Brand_Keywords,Zomato restaurants Pune,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_location_based
+ad_group_001,Zomato_Brand_Keywords,dining options near me Zomato,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_location_based
+ad_group_001,Zomato_Brand_Keywords,order food near me Zomato,phrase,unknown,unknown,1000,high,0.3,1.4,0.3,0,unknown,0.3999999999999999,llm_location_based
+ad_group_001,Zomato_Brand_Keywords,restaurants close to me Zomato,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_location_based
+ad_group_001,Zomato_Brand_Keywords,Zomato nearby,broad,unknown,unknown,5000,medium,0.6,2.0,0.0,0,unknown,0.31000000000000005,llm_location_based
+ad_group_001,Zomato_Brand_Keywords,service near me Zomato,phrase,unknown,unknown,1000,high,0.3,1.4,0.3,0,unknown,0.3999999999999999,llm_location_based
+ad_group_001,Zomato_Brand_Keywords,best local restaurants Zomato,phrase,unknown,unknown,1000,high,0.3,1.4,0.3,0,unknown,0.3999999999999999,llm_location_based
+ad_group_001,Zomato_Brand_Keywords,Zomato local dining options,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_location_based
+ad_group_001,Zomato_Brand_Keywords,local service Zomato,phrase,unknown,unknown,1000,high,0.3,1.4,0.3,0,unknown,0.3999999999999999,llm_location_based
+ad_group_001,Zomato_Brand_Keywords,in my area Zomato,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_location_based
+ad_group_001,Zomato_Brand_Keywords,your ultimate local dining Zomato,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_location_based
+ad_group_001,Zomato_Brand_Keywords,Zomato in your area,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_location_based
+ad_group_001,Zomato_Brand_Keywords,Zomato restaurants Noida,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_location_based
+ad_group_001,Zomato_Brand_Keywords,Zomato Gurgaon food,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_location_based
+ad_group_001,Zomato_Brand_Keywords,best restaurants in Tamil Nadu Zomato,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_location_based
+ad_group_001,Zomato_Brand_Keywords,Zomato dining options Karnataka,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_location_based
+ad_group_001,Zomato_Brand_Keywords,Zomato service West Bengal,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_location_based
+ad_group_001,Zomato_Brand_Keywords,restaurants in Uttar Pradesh Zomato,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_location_based
+ad_group_001,Zomato_Brand_Keywords,Zomato Rajasthan,broad,unknown,unknown,5000,medium,0.6,2.0,0.0,0,unknown,0.31000000000000005,llm_location_based
+ad_group_001,Zomato_Brand_Keywords,Where can I find the best dining deals and offers on Zomato?,phrase,unknown,unknown,1000,high,0.3,1.4,0.44999999999999996,0,unknown,0.44499999999999995,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,When is the best time to order food on Zomato for quick delivery?,phrase,unknown,unknown,1000,high,0.3,1.4,0.3,0,unknown,0.3999999999999999,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Which restaurants offer vegetarian options on Zomato in [City Name]?,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,What are the most popular cuisines available on Zomato in India?,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,How does Zomato's food delivery service compare to other apps in India?,phrase,unknown,unknown,1000,high,0.3,1.4,0.3,0,unknown,0.3999999999999999,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Finding quick and easy dinner options with Zomato's restaurant finder,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Zomato: No time to cook? Order delicious food online.,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Tired of cooking? Zomato delivers restaurant-quality food to your door.,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Avoid restaurant crowds with Zomato's easy online ordering system.,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Craving specific cuisine? Zomato helps you find the perfect restaurant.,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Need a hassle-free food delivery? Zomato is your solution.,phrase,unknown,unknown,1000,high,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Finding the best restaurants in [City Name] with Zomato's search filters.,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Zomato's online restaurant reservation system in Delhi,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Zomato's instant food delivery options within an hour,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Zomato's curated list of best restaurants in Bangalore,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Using Zomato's payment options for secure online transactions,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Enjoy delicious food at your fingertips with Zomato's app,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Save time and effort with Zomato's convenient food delivery service,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Experience a wide variety of cuisines with Zomato's vast restaurant network,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Get restaurant-quality food delivered quickly and efficiently with Zomato,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Enhance your dining experience with Zomato's seamless ordering process,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Enjoy exclusive deals and discounts with Zomato's loyalty programs,phrase,unknown,unknown,1000,low,0.3,1.4,0.3,0,unknown,0.3999999999999999,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Access a vast selection of restaurants with Zomato's user-friendly app,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Zomato's best fine dining restaurants in Hyderabad,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Zomato's top-rated South Indian restaurants in Chennai,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Order healthy food options on Zomato for weight loss,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Zomato's gluten-free and vegan restaurant options in India,phrase,unknown,unknown,1000,high,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Zomato's late-night food delivery service in Kolkata,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Zomato's options for corporate catering in India,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,Zomato's restaurant options for special occasions and events,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_longtail
+ad_group_001,Zomato_Brand_Keywords,food delivery website,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_001,Zomato_Brand_Keywords,zomato share price,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_001,Zomato_Brand_Keywords,zomato delivery partner,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_001,Zomato_Brand_Keywords,zomato coupon code,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,food delivery india,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_expansion
+ad_group_002,Zomato_food_delivery_india_Category,online food order,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_expansion
+ad_group_002,Zomato_food_delivery_india_Category,restaurant discovery,broad,unknown,unknown,5000,medium,0.6,2.0,0.0,0,unknown,0.31000000000000005,llm_expansion
+ad_group_002,Zomato_food_delivery_india_Category,quick food delivery,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_competitor_based
+ad_group_002,Zomato_food_delivery_india_Category,grocery delivery apps,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_competitor_based
+ad_group_002,Zomato_food_delivery_india_Category,online restaurant booking,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_competitor_based
+ad_group_002,Zomato_food_delivery_india_Category,fastest food delivery,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_competitor_based
+ad_group_002,Zomato_food_delivery_india_Category,cheap food delivery,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_competitor_based
+ad_group_002,Zomato_food_delivery_india_Category,dining table,broad,unknown,unknown,5000,medium,0.6,2.0,0.0,0,unknown,0.31000000000000005,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,dining chair,broad,unknown,unknown,5000,medium,0.6,2.0,0.0,0,unknown,0.31000000000000005,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,dining room,broad,unknown,unknown,5000,medium,0.6,2.0,0.0,0,unknown,0.31000000000000005,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,service plus,broad,unknown,unknown,5000,high,0.6,2.0,0.15,0,unknown,0.35500000000000004,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,servicenow,broad,unknown,unknown,10000,high,0.8,3.0,0.15,0,unknown,0.425,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,service online bihar,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,servicenow share price,phrase,unknown,unknown,1000,high,0.3,1.4,0.3,0,unknown,0.3999999999999999,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,servicenow developer,broad,unknown,unknown,5000,high,0.6,2.0,0.15,0,unknown,0.35500000000000004,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,service centre,broad,unknown,unknown,5000,high,0.6,2.0,0.15,0,unknown,0.35500000000000004,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,your fingertips 2007,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,your fingertips meaning,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,bite your fingertips,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,your ultimate destination,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,more people synonyms,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,more people meaning,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,more people images,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,more people photo,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,people first,broad,unknown,unknown,5000,medium,0.6,2.0,0.0,0,unknown,0.31000000000000005,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,peoplestrong,broad,unknown,unknown,10000,high,0.8,3.0,0.0,0,unknown,0.38,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,peopleperhour,broad,unknown,unknown,10000,high,0.8,3.0,0.0,0,unknown,0.38,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,people tree hospital,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,peoples mall bhopal,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,peoplestrong login,broad,unknown,unknown,5000,medium,0.6,2.0,0.0,0,unknown,0.31000000000000005,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,people work,broad,unknown,unknown,5000,medium,0.6,2.0,0.0,0,unknown,0.31000000000000005,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,people media factory,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,best restaurants delhi,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,best restaurants mumbai,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,best restaurants pune,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,best restaurants chennai,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,order book,broad,unknown,unknown,5000,medium,0.6,2.0,0.15,0,unknown,0.35500000000000004,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,order medicine online,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,order of draw,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,best new movies,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,best new films,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,best camera phone,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,discovery maintenance cost,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,options trading,broad,unknown,unknown,5000,medium,0.6,2.0,0.0,0,unknown,0.31000000000000005,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,options chain,broad,unknown,unknown,5000,medium,0.6,2.0,0.0,0,unknown,0.31000000000000005,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,options angamaly,broad,unknown,unknown,5000,medium,0.6,2.0,0.0,0,unknown,0.31000000000000005,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,options perumbavoor,broad,unknown,unknown,5000,medium,0.6,2.0,0.0,0,unknown,0.31000000000000005,google_autocomplete
+ad_group_002,Zomato_food_delivery_india_Category,nearest first convenience,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_003,Zomato_Competitor_swiggy_alternatives,swiggy alternatives,broad,unknown,unknown,5000,medium,0.6,2.0,0.0,0,unknown,0.31000000000000005,llm_competitor_based
+ad_group_003,Zomato_Competitor_swiggy_alternatives,order food swiggy,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_competitor_based
+ad_group_003,Zomato_Competitor_swiggy_alternatives,swiggy food delivery,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_competitor_based
+ad_group_003,Zomato_Competitor_swiggy_alternatives,cheaper than swiggy,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_competitor_based
+ad_group_003,Zomato_Competitor_swiggy_alternatives,better restaurant selection than swiggy,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_competitor_based
+ad_group_003,Zomato_Competitor_swiggy_alternatives,more reliable than swiggy,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_competitor_based
+ad_group_003,Zomato_Competitor_swiggy_alternatives,dine out option in swiggy,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_004,Zomato_Location_best_restaurants_nea,best restaurants near me,phrase,unknown,unknown,1000,high,0.3,1.4,0.3,0,unknown,0.3999999999999999,llm_expansion
+ad_group_004,Zomato_Location_best_restaurants_nea,food delivery options near me,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_expansion
+ad_group_004,Zomato_Location_best_restaurants_nea,top restaurants in [city],phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_competitor_based
+ad_group_004,Zomato_Location_best_restaurants_nea,local restaurant delivery,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_competitor_based
+ad_group_004,Zomato_Location_best_restaurants_nea,find restaurants nearby,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_competitor_based
+ad_group_004,Zomato_Location_best_restaurants_nea,eat out options near me,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_004,Zomato_Location_best_restaurants_nea,find convenience store near me,phrase,unknown,unknown,1000,high,0.3,1.4,0.3,0,unknown,0.3999999999999999,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,best restaurants in india,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_expansion
+ad_group_005,Zomato_LongTail_best_restaurants_in_,online food ordering service,phrase,unknown,unknown,1000,high,0.3,1.4,0.3,0,unknown,0.3999999999999999,llm_expansion
+ad_group_005,Zomato_LongTail_best_restaurants_in_,+order +food +online +india,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_expansion
+ad_group_005,Zomato_LongTail_best_restaurants_in_,+food +delivery +app +india,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_expansion
+ad_group_005,Zomato_LongTail_best_restaurants_in_,+find +restaurants +near +me,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_expansion
+ad_group_005,Zomato_LongTail_best_restaurants_in_,order food app comparison,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_competitor_based
+ad_group_005,Zomato_LongTail_best_restaurants_in_,food delivery apps comparison,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_competitor_based
+ad_group_005,Zomato_LongTail_best_restaurants_in_,online food ordering sites,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_competitor_based
+ad_group_005,Zomato_LongTail_best_restaurants_in_,food delivery apps without minimum order,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_competitor_based
+ad_group_005,Zomato_LongTail_best_restaurants_in_,food delivery app comparison chart,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,llm_competitor_based
+ad_group_005,Zomato_LongTail_best_restaurants_in_,superior food delivery service,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,llm_competitor_based
+ad_group_005,Zomato_LongTail_best_restaurants_in_,best customer service food delivery,phrase,unknown,unknown,1000,high,0.3,1.4,0.3,0,unknown,0.3999999999999999,llm_competitor_based
+ad_group_005,Zomato_LongTail_best_restaurants_in_,your fingertips across my skin,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,your fingertips hiroshi ishikawa,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,at your fingertips strands,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,at your fingertips crossword clue,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,at your fingertips synonym,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,dining out options for diabetics,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,healthy dining out options,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,healthiest dining out options,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,keto dining out options,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,food delivery in train,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,food delivery app chennai,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,your ultimate love rival reddit,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,your ultimate fantasy meaning,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,your ultimate 3d car configurator,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,your ultimate structures inc,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,your ultimate patty place,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,your ultimate choice llc,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,your ultimate glow up guide,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,more people more land,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,more people are watching your short,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,more people in the world,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,more people more merrier,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,more people more problems,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,people meaning in hindi,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,best restaurants in jaipur,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,best restaurants in mysore,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,order food in train,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,order 7 rule 11,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,order pvc aadhar card,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,order aadhaar pvc card,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,order to cash process,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,best mehndi design simple,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,best phone under 20000,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,best phone under 15000,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,best friend birthday wishes,phrase,unknown,unknown,1000,high,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,service discovery best practices,phrase,unknown,unknown,1000,high,0.3,1.4,0.3,0,unknown,0.3999999999999999,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,discovery car service cost,phrase,unknown,unknown,1000,high,0.3,1.4,0.3,0,unknown,0.3999999999999999,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,options meaning in hindi,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,options futures and other derivatives,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,options after 12th science,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,how to find convenience,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,find nearest convenience store,phrase,unknown,unknown,1000,low,0.3,1.4,0.15,0,unknown,0.3549999999999999,google_autocomplete
+ad_group_005,Zomato_LongTail_best_restaurants_in_,how to get a convenience check,phrase,unknown,unknown,1000,low,0.3,1.4,0.0,0,unknown,0.30999999999999994,google_autocomplete

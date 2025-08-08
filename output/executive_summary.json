@@ -1,0 +1,41 @@
+{
+  "campaign_overview": {
+    "total_keywords": 206,
+    "total_ad_groups": 5,
+    "total_ads": 15,
+    "estimated_monthly_cost": 338040.0,
+    "estimated_monthly_conversions": 3852.0000000000095,
+    "estimated_roas": 1.1395101171459028
+  },
+  "key_recommendations": [
+    "Focus on 206 high-quality keywords for optimal performance",
+    "Optimize keyword mix to improve ROAS to target 400%",
+    "Implement hybrid bidding strategy for optimal performance",
+    "Monitor competitor keywords closely and adjust bids accordingly"
+  ],
+  "risk_assessment": {
+    "risk_level": "low",
+    "identified_risks": [],
+    "mitigation_strategies": [
+      "Monitor high-competition keywords closely",
+      "Consider alternative long-tail keywords",
+      "Implement strict budget controls",
+      "Regular performance reviews"
+    ]
+  },
+  "opportunity_analysis": {
+    "identified_opportunities": [],
+    "expected_impact": "15-25% improvement in overall performance",
+    "implementation_timeline": "2-4 weeks for full implementation"
+  },
+  "ai_insights": {},
+  "next_steps": [
+    "Launch campaign with conservative bidding initially",
+    "Monitor performance daily for first 2 weeks",
+    "Adjust bids based on conversion data",
+    "Scale successful keywords and pause underperformers",
+    "Implement A/B testing for ad copy",
+    "Review and optimize monthly"
+  ],
+  "summary_timestamp": "2025-08-08T22:53:15.008461"
+}

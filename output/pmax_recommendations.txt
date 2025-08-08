@@ -1,0 +1,6 @@
+Performance Max & Shopping Campaign Recommendations
+==================================================
+
+1. Monitor PMax performance weekly and adjust theme budgets based on ROAS
+2. Use Shopping campaign bid modifiers to optimize for mobile vs desktop
+3. Consider seasonal budget adjustments for high-performing themes

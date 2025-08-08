@@ -1,0 +1,32 @@
+{
+  "pipeline_steps": [
+    "Combined keywords from all sources",
+    "Removed duplicates and variations",
+    "Filtered by search volume (>500 monthly searches)",
+    "Grouped by intent and theme",
+    "Assigned preliminary match types",
+    "Calculated difficulty scores",
+    "Final analysis and ranking"
+  ],
+  "filtering_criteria": {
+    "min_search_volume": 500,
+    "similarity_threshold": 0.8,
+    "difficulty_categories": [
+      "low",
+      "medium",
+      "high"
+    ],
+    "intent_categories": [
+      "informational",
+      "navigational",
+      "commercial",
+      "transactional",
+      "local"
+    ]
+  },
+  "scoring_methods": {
+    "difficulty_score": "Based on word count, competition, search volume, commercial intent, brand/local factors",
+    "relevance_score": "Based on search volume, competition, and commercial intent",
+    "commercial_intent": "Based on commercial indicator words"
+  }
+}

@@ -45,11 +45,11 @@ venv.bak/
 logs/
 sem_automation.log
 
-# Output files
-output/
-*.csv
-*.xlsx
-*.json
+# # Output files
+# output/
+# *.csv
+# *.xlsx
+# *.json
 
 # Chrome driver
 chromedriver

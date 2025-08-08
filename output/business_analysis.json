@@ -1,0 +1,149 @@
+[
+  {
+    "business_type": "Online food delivery and restaurant discovery platform",
+    "business_category": "local_service",
+    "main_products_services": [
+      "Online food ordering",
+      "Restaurant discovery and search",
+      "Food delivery service",
+      "Restaurant reservations",
+      "Online payment processing",
+      "Restaurant reviews and ratings"
+    ],
+    "seed_keywords": [
+      "food delivery",
+      "online food ordering",
+      "restaurant delivery",
+      "order food online",
+      "food delivery near me",
+      "best restaurants near me",
+      "restaurant reservations",
+      "food delivery app",
+      "zomato",
+      "online food ordering app",
+      "food delivery service",
+      "restaurant finder",
+      "cheap food delivery",
+      "fast food delivery"
+    ],
+    "search_intents": [
+      "Transactional (ordering food)",
+      "Informational (finding restaurants)",
+      "Navigational (going to Zomato website/app)",
+      "Commercial (comparing food delivery services)",
+      "Investigational (researching restaurants)"
+    ],
+    "target_audience": [
+      "Busy professionals",
+      "Students",
+      "Families",
+      "Foodies",
+      "Individuals looking for convenience"
+    ],
+    "competitive_advantages": [
+      "Wide selection of restaurants",
+      "Fast and reliable delivery",
+      "User-friendly app and website",
+      "Competitive pricing",
+      "Extensive restaurant reviews and ratings"
+    ],
+    "industry_keywords": [
+      "food tech",
+      "online ordering system",
+      "restaurant management software",
+      "food delivery platform",
+      "restaurant reservation system",
+      "online food marketplace"
+    ],
+    "local_keywords": [
+      "food delivery [city name]",
+      "restaurants near me",
+      "best restaurants in [city name]",
+      "order food online [city name]",
+      "food delivery [zip code]",
+      "pizza delivery [city name]"
+    ],
+    "long_tail_keywords": [
+      "best Indian food delivery near me",
+      "fastest food delivery in [city name]",
+      "cheap and healthy food delivery options",
+      "order food online with contactless delivery",
+      "find restaurants open late near me",
+      "best pizza delivery near me with gluten-free options"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "business_type": "Online food delivery and grocery ordering platform",
+    "business_category": "e-commerce",
+    "main_products_services": [
+      "Food delivery from restaurants",
+      "Grocery delivery",
+      "Restaurant reservations",
+      "Online food ordering",
+      "Grocery pick-up",
+      "Food delivery from local stores"
+    ],
+    "seed_keywords": [
+      "food delivery",
+      "online food ordering",
+      "grocery delivery",
+      "restaurant delivery",
+      "swiggy",
+      "food delivery near me",
+      "order food online",
+      "best food delivery app",
+      "grocery delivery app",
+      "online grocery shopping",
+      "swiggy delivery",
+      "food delivery services"
+    ],
+    "search_intents": [
+      "Transactional",
+      "Commercial investigation",
+      "Informational",
+      "Navigational"
+    ],
+    "target_audience": [
+      "Busy professionals",
+      "Students",
+      "Families",
+      "Individuals seeking convenience"
+    ],
+    "competitive_advantages": [
+      "Wide selection of restaurants and cuisines",
+      "Fast and reliable delivery",
+      "User-friendly mobile app",
+      "Competitive pricing and offers",
+      "Extensive grocery options"
+    ],
+    "industry_keywords": [
+      "food delivery service",
+      "online grocery store",
+      "restaurant aggregator",
+      "food ordering platform",
+      "quick commerce",
+      "food tech",
+      "online food marketplace"
+    ],
+    "local_keywords": [
+      "food delivery [city name]",
+      "grocery delivery [city name]",
+      "restaurant delivery [city name]",
+      "swiggy [city name]",
+      "online food ordering [city name]",
+      "best restaurants near me",
+      "grocery delivery near me"
+    ],
+    "long_tail_keywords": [
+      "best food delivery app for android",
+      "order food online with credit card",
+      "fastest grocery delivery near me",
+      "healthy food delivery options near me",
+      "late night food delivery",
+      "order food online for office party",
+      "cheapest grocery delivery service"
+    ],
+    "confidence_score": 0.9
+  }
+]

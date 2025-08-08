@@ -1,0 +1,2 @@
+total_keywords,total_ad_groups,avg_search_volume,avg_competition,avg_cpc,avg_relevance_score,avg_difficulty_score,sources_used,intents_covered,themes_covered,difficulty_distribution,match_type_distribution,volume_distribution
+205,80,1560.9756097560976,0.33951219512195113,1.4878048780487805,0.33517073170731704,0.0,5,1,1,{'unknown': 205},{'unknown': 205},"{'low': 123, 'high': 63, 'medium': 19}"
