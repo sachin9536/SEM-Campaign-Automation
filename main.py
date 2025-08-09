@@ -34,6 +34,10 @@ def setup_logging():
             logging.StreamHandler(sys.stdout)
         ]
     )
+    # Reduce noisy third-party loggers
+    logging.getLogger("WDM").setLevel(logging.WARNING)
+    logging.getLogger("selenium").setLevel(logging.WARNING)
+    logging.getLogger("urllib3").setLevel(logging.WARNING)
     return logging.getLogger(__name__)
 
 

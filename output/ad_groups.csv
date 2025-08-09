@@ -1,6 +1,6 @@
 ad_group_id,ad_group_name,type,keyword_count,bid_strategy,max_cpc,target_cpa,daily_budget,priority,status
-ad_group_001,Zomato_Brand_Keywords,brand,88,manual_cpc,5.420370867768595,57.63636363636373,125.0,high,active
-ad_group_002,Zomato_food_delivery_india_Category,category,49,manual_cpc,3.9362324031653486,84.08163265306125,75.0,medium,active
-ad_group_003,Zomato_Competitor_swiggy_alternatives,competitor,7,manual_cpc,4.047955102040817,89.14285714285715,40.0,low,active
-ad_group_004,Zomato_Location_best_restaurants_nea,location,7,manual_cpc,3.5534999999999997,70.0,50.0,medium,active
-ad_group_005,Zomato_LongTail_best_restaurants_in_,long_tail,55,manual_cpc,2.842800000000001,77.00000000000003,25.0,low,active
+ad_group_001,Zomato_Brand_Keywords,brand,98,manual_cpc,5.46540462307372,58.44897959183683,125.0,high,active
+ad_group_002,Zomato_online_food_ordering_Category,category,70,manual_cpc,3.9240300000000006,83.28571428571438,75.0,medium,active
+ad_group_003,Zomato_Competitor_compare_food_deliver,competitor,6,manual_cpc,3.90885,84.0,40.0,low,active
+ad_group_004,Zomato_Location_food_delivery_near_m,location,11,manual_cpc,3.5534999999999997,70.0,50.0,medium,active
+ad_group_005,Zomato_LongTail_best_food_delivery_a,long_tail,46,manual_cpc,2.842800000000001,76.99999999999996,25.0,low,active

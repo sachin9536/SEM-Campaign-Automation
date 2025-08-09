@@ -1,14 +1,14 @@
 {
   "campaign_overview": {
-    "total_keywords": 206,
+    "total_keywords": 231,
     "total_ad_groups": 5,
     "total_ads": 15,
-    "estimated_monthly_cost": 338040.0,
-    "estimated_monthly_conversions": 3852.0000000000095,
-    "estimated_roas": 1.1395101171459028
+    "estimated_monthly_cost": 415800.0,
+    "estimated_monthly_conversions": 4680.000000000014,
+    "estimated_roas": 1.1255411255411287
   },
   "key_recommendations": [
-    "Focus on 206 high-quality keywords for optimal performance",
+    "Focus on 231 high-quality keywords for optimal performance",
     "Optimize keyword mix to improve ROAS to target 400%",
     "Implement hybrid bidding strategy for optimal performance",
     "Monitor competitor keywords closely and adjust bids accordingly"
@@ -37,5 +37,5 @@
     "Implement A/B testing for ad copy",
     "Review and optimize monthly"
   ],
-  "summary_timestamp": "2025-08-08T22:53:15.008461"
+  "summary_timestamp": "2025-08-09T11:35:30.291667"
 }

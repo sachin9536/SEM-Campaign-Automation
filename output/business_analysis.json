@@ -4,145 +4,163 @@
     "business_category": "local_service",
     "main_products_services": [
       "Online food ordering",
-      "Restaurant discovery and search",
-      "Food delivery service",
+      "Restaurant discovery",
+      "Food delivery",
       "Restaurant reservations",
-      "Online payment processing",
-      "Restaurant reviews and ratings"
+      "Dining reviews",
+      "Restaurant information",
+      "Hyperpure (ingredients)",
+      "Zomato app features"
     ],
     "seed_keywords": [
       "food delivery",
       "online food ordering",
       "restaurant delivery",
-      "order food online",
       "food delivery near me",
       "best restaurants near me",
+      "order food online",
+      "zomato app",
+      "zomato restaurants",
       "restaurant reservations",
-      "food delivery app",
-      "zomato",
-      "online food ordering app",
       "food delivery service",
-      "restaurant finder",
-      "cheap food delivery",
-      "fast food delivery"
+      "online food ordering app",
+      "find restaurants",
+      "food delivery app",
+      "hyperpure ingredients"
     ],
     "search_intents": [
-      "Transactional (ordering food)",
-      "Informational (finding restaurants)",
-      "Navigational (going to Zomato website/app)",
-      "Commercial (comparing food delivery services)",
-      "Investigational (researching restaurants)"
+      "Transactional (order food online)",
+      "Informational (best restaurants near me)",
+      "Navigational (zomato app)",
+      "Commercial (food delivery service)",
+      "Investigational (hyperpure ingredients)",
+      "Transactional (restaurant reservations)"
     ],
     "target_audience": [
       "Busy professionals",
       "Students",
       "Families",
       "Foodies",
-      "Individuals looking for convenience"
+      "People looking for convenience"
     ],
     "competitive_advantages": [
       "Wide selection of restaurants",
       "Fast and reliable delivery",
-      "User-friendly app and website",
-      "Competitive pricing",
+      "User-friendly app",
+      "Hyperpure ingredients for better quality",
       "Extensive restaurant reviews and ratings"
     ],
     "industry_keywords": [
-      "food tech",
+      "food delivery app",
       "online ordering system",
       "restaurant management software",
-      "food delivery platform",
       "restaurant reservation system",
-      "online food marketplace"
+      "food tech",
+      "online food ordering platform",
+      "restaurant aggregator",
+      "food delivery marketplace"
     ],
     "local_keywords": [
       "food delivery [city name]",
       "restaurants near me",
       "best restaurants in [city name]",
       "order food online [city name]",
-      "food delivery [zip code]",
-      "pizza delivery [city name]"
+      "zomato [city name]",
+      "food delivery [area name]",
+      "restaurants in [area name]",
+      "delivery near me"
     ],
     "long_tail_keywords": [
       "best Indian food delivery near me",
-      "fastest food delivery in [city name]",
-      "cheap and healthy food delivery options",
+      "fastest food delivery app for Android",
       "order food online with contactless delivery",
-      "find restaurants open late near me",
-      "best pizza delivery near me with gluten-free options"
+      "restaurants with outdoor seating near me",
+      "affordable food delivery options near me",
+      "zomato app download for iPhone",
+      "how to use zomato app for first time",
+      "how to make restaurant reservations on zomato"
     ],
-    "confidence_score": 0.9
+    "confidence_score": 0.85
   },
   {
-    "business_type": "Online food delivery and grocery ordering platform",
-    "business_category": "e-commerce",
+    "business_type": "Online food ordering and delivery platform",
+    "business_category": "local_service",
     "main_products_services": [
-      "Food delivery from restaurants",
+      "Food delivery",
+      "Restaurant discovery",
       "Grocery delivery",
-      "Restaurant reservations",
-      "Online food ordering",
-      "Grocery pick-up",
-      "Food delivery from local stores"
+      "Instant grocery delivery",
+      "Hyperlocal delivery",
+      "Restaurant partnerships",
+      "Online payment processing",
+      "Swiggy Instamart"
     ],
     "seed_keywords": [
       "food delivery",
       "online food ordering",
-      "grocery delivery",
-      "restaurant delivery",
       "swiggy",
       "food delivery near me",
+      "restaurant delivery",
+      "online grocery delivery",
+      "swiggy instamart",
       "order food online",
       "best food delivery app",
-      "grocery delivery app",
-      "online grocery shopping",
-      "swiggy delivery",
-      "food delivery services"
+      "food delivery app",
+      "swiggy coupons",
+      "swiggy offers",
+      "food delivery service",
+      "online food ordering app"
     ],
     "search_intents": [
       "Transactional",
-      "Commercial investigation",
       "Informational",
-      "Navigational"
+      "Navigational",
+      "Commercial investigation",
+      "Local"
     ],
     "target_audience": [
       "Busy professionals",
       "Students",
       "Families",
-      "Individuals seeking convenience"
+      "Individuals seeking convenience",
+      "Foodies"
     ],
     "competitive_advantages": [
-      "Wide selection of restaurants and cuisines",
+      "Wide selection of restaurants",
       "Fast and reliable delivery",
-      "User-friendly mobile app",
+      "User-friendly app",
       "Competitive pricing and offers",
-      "Extensive grocery options"
+      "Instamart for quick grocery needs"
     ],
     "industry_keywords": [
-      "food delivery service",
-      "online grocery store",
-      "restaurant aggregator",
-      "food ordering platform",
-      "quick commerce",
       "food tech",
-      "online food marketplace"
+      "online food ordering platform",
+      "restaurant aggregator",
+      "food delivery market",
+      "online grocery",
+      "hyperlocal delivery",
+      "quick commerce",
+      "food delivery logistics"
     ],
     "local_keywords": [
       "food delivery [city name]",
-      "grocery delivery [city name]",
-      "restaurant delivery [city name]",
-      "swiggy [city name]",
       "online food ordering [city name]",
       "best restaurants near me",
-      "grocery delivery near me"
+      "grocery delivery [city name]",
+      "swiggy [city name]",
+      "swiggy instamart [city name]",
+      "restaurant delivery [area]",
+      "food delivery [zip code]"
     ],
     "long_tail_keywords": [
       "best food delivery app for android",
-      "order food online with credit card",
-      "fastest grocery delivery near me",
-      "healthy food delivery options near me",
-      "late night food delivery",
-      "order food online for office party",
-      "cheapest grocery delivery service"
+      "how to order food online from swiggy",
+      "swiggy delivery charges near me",
+      "swiggy offers for new users",
+      "cheapest food delivery near me",
+      "swiggy instamart delivery time",
+      "order food online for lunch near me",
+      "swiggy restaurant menu near me"
     ],
     "confidence_score": 0.9
   }

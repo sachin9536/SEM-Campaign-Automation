@@ -14,32 +14,32 @@
     {
       "ad_group_name": "Zomato_Brand_Keywords",
       "group_type": "brand",
-      "current_bid": 5.420370867768595,
-      "recommended_bid": 6.5,
+      "current_bid": 5.46540462307372,
+      "recommended_bid": 6.56,
       "bid_change_percentage": 20.0,
       "justification": "Brand keywords have high conversion rates and should be prioritized",
       "expected_impact": "Improved performance and cost efficiency"
     },
     {
-      "ad_group_name": "Zomato_food_delivery_india_Category",
+      "ad_group_name": "Zomato_online_food_ordering_Category",
       "group_type": "category",
-      "current_bid": 3.9362324031653486,
-      "recommended_bid": 3.94,
+      "current_bid": 3.9240300000000006,
+      "recommended_bid": 3.92,
       "bid_change_percentage": 0.0,
       "justification": "Standard bidding approach for this ad group type",
       "expected_impact": "Improved performance and cost efficiency"
     },
     {
-      "ad_group_name": "Zomato_Competitor_swiggy_alternatives",
+      "ad_group_name": "Zomato_Competitor_compare_food_deliver",
       "group_type": "competitor",
-      "current_bid": 4.047955102040817,
-      "recommended_bid": 4.45,
+      "current_bid": 3.90885,
+      "recommended_bid": 4.3,
       "bid_change_percentage": 10.0,
       "justification": "Competitor keywords can capture market share but require careful monitoring",
       "expected_impact": "Improved performance and cost efficiency"
     },
     {
-      "ad_group_name": "Zomato_Location_best_restaurants_nea",
+      "ad_group_name": "Zomato_Location_food_delivery_near_m",
       "group_type": "location",
       "current_bid": 3.5534999999999997,
       "recommended_bid": 3.55,
@@ -48,7 +48,7 @@
       "expected_impact": "Improved performance and cost efficiency"
     },
     {
-      "ad_group_name": "Zomato_LongTail_best_restaurants_in_",
+      "ad_group_name": "Zomato_LongTail_best_food_delivery_a",
       "group_type": "long_tail",
       "current_bid": 2.842800000000001,
       "recommended_bid": 2.56,
@@ -59,7 +59,7 @@
   ],
   "keyword_recommendations": [
     {
-      "keyword": "food delivery india",
+      "keyword": "zomato food delivery india",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -67,7 +67,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "online food order",
+      "keyword": "best food delivery app",
       "current_cpc": 1.4,
       "recommended_bid": 1.55,
       "bid_change_percentage": 10.7,
@@ -75,15 +75,159 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "restaurant discovery",
-      "current_cpc": 2.0,
-      "recommended_bid": 2.24,
-      "bid_change_percentage": 12.0,
-      "justification": "Standard bidding approach",
+      "keyword": "online food ordering",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
       "priority_score": 0.0
     },
     {
-      "keyword": "best restaurants near me",
+      "keyword": "restaurant finder india",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "food delivery near me",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "zomato restaurant discovery",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "order food online",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "indian food delivery",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "zomato food delivery service",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "largest food delivery service india",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "zomato food delivery app",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "zomato restaurant finder",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "+zomato +food +delivery +india",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "+zomato +restaurant +discovery +service",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "+zomato +online +food +ordering",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "+best +food +delivery +app +india",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "+zomato +food +delivery +app",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "+order +food +online +zomato",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "+largest +food +delivery +service +india",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "+zomato +restaurant +finder",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "what is Zomato Pro?",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "best restaurants near me Zomato",
       "current_cpc": 1.4,
       "recommended_bid": 1.62,
       "bid_change_percentage": 15.7,
@@ -91,7 +235,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "zomato food delivery",
+      "keyword": "how does Zomato delivery work?",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -99,15 +243,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "swiggy zomato",
-      "current_cpc": 2.0,
-      "recommended_bid": 2.24,
-      "bid_change_percentage": 12.0,
-      "justification": "Standard bidding approach",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "best restaurants in india",
+      "keyword": "Zomato restaurant reviews",
       "current_cpc": 1.4,
       "recommended_bid": 1.55,
       "bid_change_percentage": 10.7,
@@ -115,15 +251,15 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "online food ordering service",
+      "keyword": "how to use Zomato Gold",
       "current_cpc": 1.4,
-      "recommended_bid": 1.62,
-      "bid_change_percentage": 15.7,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
       "justification": "Low competition allows for more aggressive bidding",
       "priority_score": 0.0
     },
     {
-      "keyword": "discover best restaurants zomato",
+      "keyword": "what are the top-rated restaurants on Zomato?",
       "current_cpc": 1.4,
       "recommended_bid": 1.55,
       "bid_change_percentage": 10.7,
@@ -131,127 +267,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "food delivery options near me",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "best restaurants on zomato",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "download zomato app",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "find restaurants near me zomato",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "+zomato +food +delivery",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "+zomato +best +restaurants",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "+order +food +online +india",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "+zomato +restaurant +discovery",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "+food +delivery +app +india",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "+zomato +online +food +order",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "+find +restaurants +near +me",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "+swiggy +zomato +comparison",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "what is Zomato pro",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "how to find restaurants on Zomato",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "how to use Zomato app",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "what are the benefits of Zomato Gold",
+      "keyword": "how to find restaurants open now on Zomato",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -267,6 +283,14 @@
       "priority_score": 0.0
     },
     {
+      "keyword": "Zomato app download",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
       "keyword": "Zomato website",
       "current_cpc": 2.0,
       "recommended_bid": 2.24,
@@ -275,7 +299,23 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "Zomato customer care",
+      "keyword": "Zomato customer service",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Zomato careers",
+      "current_cpc": 2.0,
+      "recommended_bid": 2.24,
+      "bid_change_percentage": 12.0,
+      "justification": "Standard bidding approach",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Zomato investor relations",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -283,47 +323,15 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "top restaurants in Mumbai Zomato",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Zomato restaurant reviews",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "best deals on Zomato",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.62,
-      "bid_change_percentage": 15.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Zomato Gold membership cost",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Zomato discounts",
+      "keyword": "Zomato blog",
       "current_cpc": 2.0,
-      "recommended_bid": 2.34,
-      "bid_change_percentage": 17.0,
+      "recommended_bid": 2.24,
+      "bid_change_percentage": 12.0,
       "justification": "Standard bidding approach",
       "priority_score": 0.0
     },
     {
-      "keyword": "order food Zomato app",
+      "keyword": "Zomato vs Swiggy",
       "current_cpc": 1.4,
       "recommended_bid": 1.55,
       "bid_change_percentage": 10.7,
@@ -331,7 +339,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "Zomato online order",
+      "keyword": "Zomato restaurant deals",
       "current_cpc": 1.4,
       "recommended_bid": 1.55,
       "bid_change_percentage": 10.7,
@@ -339,7 +347,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "order food now Zomato",
+      "keyword": "top 10 restaurants in Mumbai Zomato",
       "current_cpc": 1.4,
       "recommended_bid": 1.55,
       "bid_change_percentage": 10.7,
@@ -347,7 +355,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "place Zomato order",
+      "keyword": "Zomato reviews Bangalore",
       "current_cpc": 1.4,
       "recommended_bid": 1.55,
       "bid_change_percentage": 10.7,
@@ -355,7 +363,15 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "Zomato order tracking",
+      "keyword": "compare food delivery apps India",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "best restaurants for delivery Zomato",
       "current_cpc": 1.4,
       "recommended_bid": 1.55,
       "bid_change_percentage": 10.7,
@@ -371,7 +387,55 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "swiggy alternatives",
+      "keyword": "Zomato online ordering",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "place order Zomato",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Zomato online payment",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "zomato vs foodpanda",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "zomato vs dineout",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "zomato vs magicpin",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "zomato alternatives",
       "current_cpc": 2.0,
       "recommended_bid": 2.24,
       "bid_change_percentage": 12.0,
@@ -379,7 +443,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "order food swiggy",
+      "keyword": "best zomato competitor",
       "current_cpc": 1.4,
       "recommended_bid": 1.55,
       "bid_change_percentage": 10.7,
@@ -395,15 +459,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "zomato vs order food",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.62,
-      "bid_change_percentage": 15.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "order food app comparison",
+      "keyword": "foodpanda online ordering",
       "current_cpc": 1.4,
       "recommended_bid": 1.55,
       "bid_change_percentage": 10.7,
@@ -411,7 +467,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "quick food delivery",
+      "keyword": "dineout restaurant reservations",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -419,7 +475,15 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "food delivery apps comparison",
+      "keyword": "magicpin deals",
+      "current_cpc": 2.0,
+      "recommended_bid": 2.34,
+      "bid_change_percentage": 17.0,
+      "justification": "Standard bidding approach",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "swiggy restaurant discovery",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -427,23 +491,15 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "grocery delivery apps",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
+      "keyword": "foodpanda discounts",
+      "current_cpc": 2.0,
+      "recommended_bid": 2.34,
+      "bid_change_percentage": 17.0,
+      "justification": "Standard bidding approach",
       "priority_score": 0.0
     },
     {
-      "keyword": "online restaurant booking",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "top restaurants in [city]",
+      "keyword": "online food delivery services India",
       "current_cpc": 1.4,
       "recommended_bid": 1.55,
       "bid_change_percentage": 10.7,
@@ -451,7 +507,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "fastest food delivery",
+      "keyword": "restaurant reservation apps India",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -459,31 +515,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "cheap food delivery",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "local restaurant delivery",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "online food ordering sites",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "find restaurants nearby",
+      "keyword": "alternative to zomato",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -491,7 +523,15 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "food delivery apps without minimum order",
+      "keyword": "restaurant finder app",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "best dining apps",
       "current_cpc": 1.4,
       "recommended_bid": 1.55,
       "bid_change_percentage": 10.7,
@@ -499,15 +539,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "food delivery app comparison chart",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "cheaper than swiggy",
+      "keyword": "local food delivery",
       "current_cpc": 1.4,
       "recommended_bid": 1.55,
       "bid_change_percentage": 10.7,
@@ -515,7 +547,15 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "better restaurant selection than swiggy",
+      "keyword": "zomato vs competitors",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "food delivery app comparison India",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -523,7 +563,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "more reliable than swiggy",
+      "keyword": "better than swiggy",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -531,7 +571,31 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "zomato better deals",
+      "keyword": "faster than foodpanda",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "cheaper than dineout",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "more restaurants than swiggy",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "best restaurant discovery app",
       "current_cpc": 1.4,
       "recommended_bid": 1.55,
       "bid_change_percentage": 10.7,
@@ -547,15 +611,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "best customer service food delivery",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.62,
-      "bid_change_percentage": 15.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Zomato restaurants Delhi NCR",
+      "keyword": "Zomato food delivery Mumbai",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -563,15 +619,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "best restaurants Bangalore Zomato",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "dining options Hyderabad Zomato",
+      "keyword": "Zomato dining Bangalore",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -579,15 +627,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "Zomato service Kolkata",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Zomato restaurants Pune",
+      "keyword": "Zomato in Kolkata",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -595,31 +635,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "dining options near me Zomato",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "order food near me Zomato",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.62,
-      "bid_change_percentage": 15.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "restaurants close to me Zomato",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Zomato nearby",
+      "keyword": "Zomato Pune",
       "current_cpc": 2.0,
       "recommended_bid": 2.24,
       "bid_change_percentage": 12.0,
@@ -627,10 +643,42 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "service near me Zomato",
+      "keyword": "Zomato Goa",
+      "current_cpc": 2.0,
+      "recommended_bid": 2.24,
+      "bid_change_percentage": 12.0,
+      "justification": "Standard bidding approach",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "dining options near me",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "discovery service near me",
       "current_cpc": 1.4,
       "recommended_bid": 1.62,
       "bid_change_percentage": 15.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "food delivery close to me",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "nearby restaurants Zomato",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
       "justification": "Low competition allows for more aggressive bidding",
       "priority_score": 0.0
     },
@@ -643,15 +691,15 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "Zomato local dining options",
+      "keyword": "nearby dining Zomato",
       "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
       "justification": "Low competition allows for more aggressive bidding",
       "priority_score": 0.0
     },
     {
-      "keyword": "local service Zomato",
+      "keyword": "local food discovery service",
       "current_cpc": 1.4,
       "recommended_bid": 1.62,
       "bid_change_percentage": 15.7,
@@ -659,7 +707,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "in my area Zomato",
+      "keyword": "Zomato your area",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -667,7 +715,23 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "your ultimate local dining Zomato",
+      "keyword": "in my area food delivery",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "local food deals Zomato",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.62,
+      "bid_change_percentage": 15.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "best restaurants in your area",
       "current_cpc": 1.4,
       "recommended_bid": 1.55,
       "bid_change_percentage": 10.7,
@@ -675,7 +739,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "Zomato in your area",
+      "keyword": "Zomato Delhi food delivery",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -683,23 +747,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "Zomato restaurants Noida",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Zomato Gurgaon food",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "best restaurants in Tamil Nadu Zomato",
+      "keyword": "Hyderabad Zomato best restaurants",
       "current_cpc": 1.4,
       "recommended_bid": 1.55,
       "bid_change_percentage": 10.7,
@@ -707,7 +755,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "Zomato dining options Karnataka",
+      "keyword": "Chennai Zomato food",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -715,15 +763,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "Zomato service West Bengal",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "restaurants in Uttar Pradesh Zomato",
+      "keyword": "Zomato restaurants in Gurgaon",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -731,7 +771,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "Zomato Rajasthan",
+      "keyword": "Zomato Noida",
       "current_cpc": 2.0,
       "recommended_bid": 2.24,
       "bid_change_percentage": 12.0,
@@ -739,7 +779,223 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "Where can I find the best dining deals and offers on Zomato?",
+      "keyword": "Zomato Maharashtra",
+      "current_cpc": 2.0,
+      "recommended_bid": 2.24,
+      "bid_change_percentage": 12.0,
+      "justification": "Standard bidding approach",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Zomato Tamil Nadu",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "food delivery in Gujarat Zomato",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Zomato restaurants in Karnataka",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Zomato Andhra Pradesh",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Zomato West Bengal",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "best food in Uttar Pradesh Zomato",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Zomato Kerala",
+      "current_cpc": 2.0,
+      "recommended_bid": 2.24,
+      "bid_change_percentage": 12.0,
+      "justification": "Standard bidding approach",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "What is the best food delivery service in India?",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.62,
+      "bid_change_percentage": 15.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "When is the best time to order food on Zomato?",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.62,
+      "bid_change_percentage": 15.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Which restaurants on Zomato offer vegetarian options?",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "How does Zomato's food delivery service compare to Swiggy?",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.62,
+      "bid_change_percentage": 15.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Solving late-night hunger pangs with Zomato food delivery",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Finding healthy food options for weight loss with Zomato",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Eliminating the hassle of cooking with Zomato's food delivery",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Discovering hidden culinary gems in India through Zomato",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Avoiding long restaurant wait times with Zomato's online ordering",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Finding the perfect restaurant for a special occasion with Zomato",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Comparing restaurant prices and menus easily with Zomato",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Zomato's restaurant discovery service in Hyderabad",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Zomato's contactless food delivery option",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Zomato's in-app restaurant reservations",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Zomato Gold membership benefits and discounts",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Zomato Pro subscription features and advantages",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Save time and effort with Zomato's fast food delivery",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Enjoy a wider variety of cuisines with Zomato's vast selection",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Experience delicious food from your favorite restaurants with Zomato",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Get the best deals and discounts on food with Zomato",
       "current_cpc": 1.4,
       "recommended_bid": 1.68,
       "bid_change_percentage": 20.0,
@@ -747,15 +1003,39 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "When is the best time to order food on Zomato for quick delivery?",
+      "keyword": "Discover new and exciting restaurants with Zomato's recommendations",
       "current_cpc": 1.4,
-      "recommended_bid": 1.62,
-      "bid_change_percentage": 15.7,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
       "justification": "Low competition allows for more aggressive bidding",
       "priority_score": 0.0
     },
     {
-      "keyword": "Which restaurants offer vegetarian options on Zomato in [City Name]?",
+      "keyword": "Improve your dining experience with Zomato's user-friendly app",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Enjoy convenient and reliable food delivery with Zomato",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Enhance your social dining experience with Zomato's restaurant discovery",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Best fine dining restaurants on Zomato in Mumbai",
       "current_cpc": 1.4,
       "recommended_bid": 1.55,
       "bid_change_percentage": 10.7,
@@ -763,31 +1043,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "What are the most popular cuisines available on Zomato in India?",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "How does Zomato's food delivery service compare to other apps in India?",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.62,
-      "bid_change_percentage": 15.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Finding quick and easy dinner options with Zomato's restaurant finder",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Zomato: No time to cook? Order delicious food online.",
+      "keyword": "Top-rated street food options on Zomato in Delhi",
       "current_cpc": 1.4,
       "recommended_bid": 1.55,
       "bid_change_percentage": 10.7,
@@ -795,7 +1051,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "Tired of cooking? Zomato delivers restaurant-quality food to your door.",
+      "keyword": "Zomato's selection of organic and healthy food options",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -803,7 +1059,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "Avoid restaurant crowds with Zomato's easy online ordering system.",
+      "keyword": "Zomato's delivery service for specific dietary restrictions",
       "current_cpc": 1.4,
       "recommended_bid": 1.55,
       "bid_change_percentage": 10.7,
@@ -811,7 +1067,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "Craving specific cuisine? Zomato helps you find the perfect restaurant.",
+      "keyword": "Finding vegan and vegetarian restaurants on Zomato",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -819,15 +1075,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "Need a hassle-free food delivery? Zomato is your solution.",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Finding the best restaurants in [City Name] with Zomato's search filters.",
+      "keyword": "Zomato's exclusive partnerships with top chefs in India",
       "current_cpc": 1.4,
       "recommended_bid": 1.55,
       "bid_change_percentage": 10.7,
@@ -835,7 +1083,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "Zomato's online restaurant reservation system in Delhi",
+      "keyword": "Zomato's curated restaurant guides for various occasions",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -843,15 +1091,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "Zomato's instant food delivery options within an hour",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Zomato's curated list of best restaurants in Bangalore",
+      "keyword": "Zomato's focus on supporting local restaurants in India",
       "current_cpc": 1.4,
       "recommended_bid": 1.55,
       "bid_change_percentage": 10.7,
@@ -859,127 +1099,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "Using Zomato's payment options for secure online transactions",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Enjoy delicious food at your fingertips with Zomato's app",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Save time and effort with Zomato's convenient food delivery service",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Experience a wide variety of cuisines with Zomato's vast restaurant network",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Get restaurant-quality food delivered quickly and efficiently with Zomato",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Enhance your dining experience with Zomato's seamless ordering process",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Enjoy exclusive deals and discounts with Zomato's loyalty programs",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.62,
-      "bid_change_percentage": 15.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Access a vast selection of restaurants with Zomato's user-friendly app",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Zomato's best fine dining restaurants in Hyderabad",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Zomato's top-rated South Indian restaurants in Chennai",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Order healthy food options on Zomato for weight loss",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Zomato's gluten-free and vegan restaurant options in India",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Zomato's late-night food delivery service in Kolkata",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Zomato's options for corporate catering in India",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "Zomato's restaurant options for special occasions and events",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "dining table",
+      "keyword": "discovery channel",
       "current_cpc": 2.0,
       "recommended_bid": 2.24,
       "bid_change_percentage": 12.0,
@@ -987,7 +1107,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "dining chair",
+      "keyword": "discovery car",
       "current_cpc": 2.0,
       "recommended_bid": 2.24,
       "bid_change_percentage": 12.0,
@@ -995,7 +1115,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "dining room",
+      "keyword": "discovery plus",
       "current_cpc": 2.0,
       "recommended_bid": 2.24,
       "bid_change_percentage": 12.0,
@@ -1003,322 +1123,106 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "service plus",
+      "keyword": "discovery sport",
       "current_cpc": 2.0,
-      "recommended_bid": 2.34,
-      "bid_change_percentage": 17.0,
+      "recommended_bid": 2.24,
+      "bid_change_percentage": 12.0,
       "justification": "Standard bidding approach",
       "priority_score": 0.0
     },
     {
-      "keyword": "servicenow",
-      "current_cpc": 3.0,
-      "recommended_bid": 3.64,
-      "bid_change_percentage": 21.3,
-      "justification": "High search volume indicates strong demand",
+      "keyword": "discovery of india",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
       "priority_score": 0.0
     },
     {
-      "keyword": "service online bihar",
+      "keyword": "discovery of electron",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "discovery of proton",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "discovery village nandi hills",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "food odisha",
+      "current_cpc": 2.0,
+      "recommended_bid": 2.24,
+      "bid_change_percentage": 12.0,
+      "justification": "Standard bidding approach",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "food on train",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "food chain",
+      "current_cpc": 2.0,
+      "recommended_bid": 2.24,
+      "bid_change_percentage": 12.0,
+      "justification": "Standard bidding approach",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "food poisoning",
+      "current_cpc": 2.0,
+      "recommended_bid": 2.24,
+      "bid_change_percentage": 12.0,
+      "justification": "Standard bidding approach",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "food license",
+      "current_cpc": 2.0,
+      "recommended_bid": 2.24,
+      "bid_change_percentage": 12.0,
+      "justification": "Standard bidding approach",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "food supply",
+      "current_cpc": 2.0,
+      "recommended_bid": 2.24,
+      "bid_change_percentage": 12.0,
+      "justification": "Standard bidding approach",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "food corporation of india",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "food court near me",
       "current_cpc": 1.4,
       "recommended_bid": 1.55,
       "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "servicenow share price",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.62,
-      "bid_change_percentage": 15.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "servicenow developer",
-      "current_cpc": 2.0,
-      "recommended_bid": 2.34,
-      "bid_change_percentage": 17.0,
-      "justification": "Standard bidding approach",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "service centre",
-      "current_cpc": 2.0,
-      "recommended_bid": 2.34,
-      "bid_change_percentage": 17.0,
-      "justification": "Standard bidding approach",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "your fingertips across my skin",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "your fingertips 2007",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "your fingertips hiroshi ishikawa",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "your fingertips meaning",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "at your fingertips strands",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "bite your fingertips",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "at your fingertips crossword clue",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "at your fingertips synonym",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "dining out options for diabetics",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "eat out options near me",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "dine out option in swiggy",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "healthy dining out options",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "healthiest dining out options",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "keto dining out options",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "food delivery in train",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "food delivery website",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "food delivery app chennai",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "your ultimate love rival reddit",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "your ultimate fantasy meaning",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "your ultimate 3d car configurator",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "your ultimate destination",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "your ultimate structures inc",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "your ultimate patty place",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "your ultimate choice llc",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "your ultimate glow up guide",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "more people synonyms",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "more people meaning",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "more people more land",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "more people images",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "more people are watching your short",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "more people in the world",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "more people more merrier",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "more people photo",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "more people more problems",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
       "justification": "Low competition allows for more aggressive bidding",
       "priority_score": 0.0
     },
@@ -1355,6 +1259,14 @@
       "priority_score": 0.0
     },
     {
+      "keyword": "peoples mall bhopal",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
       "keyword": "people tree hospital",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
@@ -1363,7 +1275,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "peoples mall bhopal",
+      "keyword": "people like us",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -1387,215 +1299,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "people media factory",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "best restaurants delhi",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "best restaurants mumbai",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "best restaurants in jaipur",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "best restaurants pune",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "best restaurants chennai",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "best restaurants in mysore",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "order food in train",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "order book",
-      "current_cpc": 2.0,
-      "recommended_bid": 2.34,
-      "bid_change_percentage": 17.0,
-      "justification": "Standard bidding approach",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "order medicine online",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "order 7 rule 11",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "order pvc aadhar card",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "order aadhaar pvc card",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "order of draw",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "order to cash process",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "zomato share price",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "zomato delivery partner",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "zomato coupon code",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "best new movies",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "best new films",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "best mehndi design simple",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "best phone under 20000",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "best phone under 15000",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "best friend birthday wishes",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "best camera phone",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.55,
-      "bid_change_percentage": 10.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
       "keyword": "service discovery best practices",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.62,
-      "bid_change_percentage": 15.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "discovery car service cost",
       "current_cpc": 1.4,
       "recommended_bid": 1.62,
       "bid_change_percentage": 15.7,
@@ -1611,23 +1315,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "options trading",
-      "current_cpc": 2.0,
-      "recommended_bid": 2.24,
-      "bid_change_percentage": 12.0,
-      "justification": "Standard bidding approach",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "options chain",
-      "current_cpc": 2.0,
-      "recommended_bid": 2.24,
-      "bid_change_percentage": 12.0,
-      "justification": "Standard bidding approach",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "options meaning in hindi",
+      "keyword": "largest country in the world",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -1635,7 +1323,39 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "options angamaly",
+      "keyword": "largest state in india",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "largest organ in human body",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "largest lake in india",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "largest river in india",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "dining table",
       "current_cpc": 2.0,
       "recommended_bid": 2.24,
       "bid_change_percentage": 12.0,
@@ -1643,23 +1363,7 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "options futures and other derivatives",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "options after 12th science",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.48,
-      "bid_change_percentage": 5.7,
-      "justification": "Low competition allows for more aggressive bidding",
-      "priority_score": 0.0
-    },
-    {
-      "keyword": "options perumbavoor",
+      "keyword": "dining chair",
       "current_cpc": 2.0,
       "recommended_bid": 2.24,
       "bid_change_percentage": 12.0,
@@ -1667,15 +1371,31 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "find convenience store near me",
-      "current_cpc": 1.4,
-      "recommended_bid": 1.62,
-      "bid_change_percentage": 15.7,
-      "justification": "Low competition allows for more aggressive bidding",
+      "keyword": "dining room",
+      "current_cpc": 2.0,
+      "recommended_bid": 2.24,
+      "bid_change_percentage": 12.0,
+      "justification": "Standard bidding approach",
       "priority_score": 0.0
     },
     {
-      "keyword": "how to find convenience",
+      "keyword": "more images",
+      "current_cpc": 2.0,
+      "recommended_bid": 2.24,
+      "bid_change_percentage": 12.0,
+      "justification": "Standard bidding approach",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "more supermarket",
+      "current_cpc": 2.0,
+      "recommended_bid": 2.24,
+      "bid_change_percentage": 12.0,
+      "justification": "Standard bidding approach",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "more meaning in hindi",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -1683,7 +1403,79 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "find nearest convenience store",
+      "keyword": "morena",
+      "current_cpc": 3.0,
+      "recommended_bid": 3.48,
+      "bid_change_percentage": 16.0,
+      "justification": "High search volume indicates strong demand",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "moreover meaning in hindi",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "more than friends",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "more than a married couple",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "more than symbol",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "morena baccarin",
+      "current_cpc": 2.0,
+      "recommended_bid": 2.24,
+      "bid_change_percentage": 12.0,
+      "justification": "Standard bidding approach",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "food delivery restaurant",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "zomato food delivery & dining",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "discovery servicenow",
+      "current_cpc": 2.0,
+      "recommended_bid": 2.34,
+      "bid_change_percentage": 17.0,
+      "justification": "Standard bidding approach",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "discovery service in microservices",
       "current_cpc": 1.4,
       "recommended_bid": 1.55,
       "bid_change_percentage": 10.7,
@@ -1691,7 +1483,31 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "nearest first convenience",
+      "keyword": "discovery service cost",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.62,
+      "bid_change_percentage": 15.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "discovery service in spring boot",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "discovery services in library",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "more people synonyms",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -1699,7 +1515,391 @@
       "priority_score": 0.0
     },
     {
-      "keyword": "how to get a convenience check",
+      "keyword": "more people meaning",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "more people more land",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "more people are watching your short",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "more people in the world",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "more people more merrier",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "more people more problems",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "more people photo",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "better food co",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "better food factory",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "better food co. menu",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "better food for liver",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "better food company",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "better food for eyes",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "better food ventures",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "largest food delivery companies",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "largest food delivery apps",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "largest food delivery app in the uk",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "food delivery in train",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "food delivery apps in bangalore",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "food delivery website",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "food delivery app chennai",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "delivery dining near me",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "restaurant discovery gardens",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "restaurant discovery bay",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "restaurant discovery mall",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "restaurant discovery green",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "restaurant discovery platform",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "restaurant discovery park",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "restaurant discovery primea",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "restaurant discovery ancol",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Discovery Village Kanakapura\nResort hotel \u00b7 Voddarahalli, Karnataka",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Discovery Village Kabini\nResort hotel \u00b7 Mysore District, N.Belthur, Karnataka",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Discovery\nTelevision producer",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "food mangalore",
+      "current_cpc": 2.0,
+      "recommended_bid": 2.24,
+      "bid_change_percentage": 12.0,
+      "justification": "Standard bidding approach",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "food civil supplies",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "food places near me",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "food and civil",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "People Tree Ltd.",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "people meaning in kannada",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "people media factory",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "service discovery vs gateway",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.62,
+      "bid_change_percentage": 15.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "discovery service dynamics 365",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "largest district in karnataka",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "dining hall",
+      "current_cpc": 2.0,
+      "recommended_bid": 2.24,
+      "bid_change_percentage": 12.0,
+      "justification": "Standard bidding approach",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "more meaning in kannada",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "more opposite word",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "Morena\nTown in India",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.48,
+      "bid_change_percentage": 5.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "discovery service team",
+      "current_cpc": 1.4,
+      "recommended_bid": 1.55,
+      "bid_change_percentage": 10.7,
+      "justification": "Low competition allows for more aggressive bidding",
+      "priority_score": 0.0
+    },
+    {
+      "keyword": "more people game",
       "current_cpc": 1.4,
       "recommended_bid": 1.48,
       "bid_change_percentage": 5.7,
@@ -1720,7 +1920,7 @@
   },
   "competitive_analysis": {
     "high_competition_count": 3,
-    "medium_competition_count": 203,
+    "medium_competition_count": 228,
     "low_competition_count": 0,
     "recommendations": [
       "Focus on low-competition keywords for cost efficiency",

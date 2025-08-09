@@ -2,32 +2,32 @@
   "conservative_scenario": {
     "scenario": "conservative",
     "daily_budget": 315.0,
-    "estimated_clicks": 5136,
-    "estimated_cost": 9167.01,
-    "estimated_conversions": 82.18,
-    "estimated_revenue": 8217.6,
-    "estimated_roas": 0.9,
-    "estimated_cpa": 111.55
+    "estimated_clicks": 6240,
+    "estimated_cost": 11280.62,
+    "estimated_conversions": 99.84,
+    "estimated_revenue": 9984.0,
+    "estimated_roas": 0.89,
+    "estimated_cpa": 112.99
   },
   "moderate_scenario": {
     "scenario": "moderate",
     "daily_budget": 315.0,
-    "estimated_clicks": 6420,
-    "estimated_cost": 9548.97,
-    "estimated_conversions": 128.4,
-    "estimated_revenue": 12840.0,
-    "estimated_roas": 1.34,
-    "estimated_cpa": 74.37
+    "estimated_clicks": 7800,
+    "estimated_cost": 11750.65,
+    "estimated_conversions": 156.0,
+    "estimated_revenue": 15600.0,
+    "estimated_roas": 1.33,
+    "estimated_cpa": 75.32
   },
   "aggressive_scenario": {
     "scenario": "aggressive",
     "daily_budget": 315.0,
-    "estimated_clicks": 7704,
-    "estimated_cost": 9167.01,
-    "estimated_conversions": 184.9,
-    "estimated_revenue": 18489.6,
-    "estimated_roas": 2.02,
-    "estimated_cpa": 49.58
+    "estimated_clicks": 9360,
+    "estimated_cost": 11280.62,
+    "estimated_conversions": 224.64,
+    "estimated_revenue": 22464.0,
+    "estimated_roas": 1.99,
+    "estimated_cpa": 50.22
   },
   "budget_breakdown": {
     "total_daily_budget": 315.0,
@@ -73,13 +73,13 @@
     "monthly_cost": 0,
     "cost_by_ad_group": {
       "Zomato_Brand_Keywords": 0,
-      "Zomato_food_delivery_india_Category": 0,
-      "Zomato_Competitor_swiggy_alternatives": 0,
-      "Zomato_Location_best_restaurants_nea": 0,
-      "Zomato_LongTail_best_restaurants_in_": 0
+      "Zomato_online_food_ordering_Category": 0,
+      "Zomato_Competitor_compare_food_deliver": 0,
+      "Zomato_Location_food_delivery_near_m": 0,
+      "Zomato_LongTail_best_food_delivery_a": 0
     },
     "cost_efficiency_metrics": {
-      "avg_cpc": 1.487378640776699,
+      "avg_cpc": 1.5064935064935066,
       "cost_per_conversion": 0
     }
   }

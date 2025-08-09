@@ -13,12 +13,12 @@ A comprehensive Python-based tool for automating Search Engine Marketing (SEM) c
 ## Project Structure
 
 ```
-SEM_by_claude/
+SEM/
 ├── main.py                   # Main entry point
 ├── config.yaml               # Configuration file
 ├── input/keyword_planner.csv # to input keyword csv file of the brand generate it with google ads Keyword planner (Note :- please keep the csv file name same as  keyword_planner.csv)
 ├── requirements.txt       # Python dependencies
-├── .env                   # Environment variables 
+├── .env                   # Environment variables
 ├── README.md              # This file
 ├── sem_automation         # Central log file
 ├── modules/               # Core modules
@@ -38,7 +38,7 @@ SEM_by_claude/
 
    ```bash
    git clone <repository-url>
-   cd SEM_by_claude
+   cd SEM
    ```
 
 2. **Install Python dependencies**
@@ -208,7 +208,6 @@ campaign_builder = CampaignBuilder(config)
 
 - Supports multiple LLM providers including OpenAI, Gemini, and local models.
 
-
 ## Requirements
 
 - Python 3.8+
@@ -257,5 +256,3 @@ campaign_builder = CampaignBuilder(config)
 ### Logging
 
 The tool generates detailed logs in `sem_automation.log`. Check this file for debugging information.
-
-

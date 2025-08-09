@@ -1,14 +1,14 @@
 {
-  "total_keywords": 206,
+  "total_keywords": 231,
   "average_target_cpc": 1.0,
-  "average_adjusted_cpc": 0.93,
-  "average_expected_roas": 2.16,
+  "average_adjusted_cpc": 0.94,
+  "average_expected_roas": 2.14,
   "priority_distribution": {
-    "medium": 206
+    "medium": 231
   },
-  "total_budget_allocation": 6.59,
+  "total_budget_allocation": 8.11,
   "conversion_rate_used": 0.02,
   "shopping_budget": 150,
   "target_roas": 4.0,
-  "calculation_timestamp": "2025-08-08T22:53:14.989855"
+  "calculation_timestamp": "2025-08-09T11:35:30.278071"
 }

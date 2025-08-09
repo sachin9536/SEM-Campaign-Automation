@@ -1,207 +1,236 @@
 keyword,search_volume,search_volume_category,competition,cpc,commercial_intent,relevance_score,difficulty_score,difficulty_category,match_type,intent_type,search_intent,keyword_theme,source,preliminary_match_type,competitor_type,location_type,longtail_type,intent_theme_group,estimated_clicks,estimated_cost,estimated_conversions,estimated_roas,priority_score,recommended_bid
-food delivery india,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,broad_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-online food order,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,broad_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-restaurant discovery,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,broad_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
-best restaurants near me,1000,high,0.3,1.4,0.3,0.3999999999999999,0,unknown,broad_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
-zomato food delivery,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,broad_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-swiggy zomato,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,broad_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
-best restaurants in india,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,phrase_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-online food ordering service,1000,high,0.3,1.4,0.3,0.3999999999999999,0,unknown,phrase_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
-discover best restaurants zomato,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,phrase_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-food delivery options near me,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,phrase_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-best restaurants on zomato,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,exact_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-download zomato app,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,exact_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-find restaurants near me zomato,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,exact_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-+zomato +food +delivery,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,modified_broad,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-+zomato +best +restaurants,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,modified_broad,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-+order +food +online +india,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,modified_broad,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-+zomato +restaurant +discovery,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,modified_broad,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-+food +delivery +app +india,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,modified_broad,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-+zomato +online +food +order,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,modified_broad,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-+find +restaurants +near +me,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,modified_broad,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-+swiggy +zomato +comparison,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,modified_broad,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-what is Zomato pro,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-how to find restaurants on Zomato,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-how to use Zomato app,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-what are the benefits of Zomato Gold,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-Zomato login,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
-Zomato website,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
-Zomato customer care,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-top restaurants in Mumbai Zomato,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+zomato food delivery india,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,broad_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+best food delivery app,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,broad_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+online food ordering,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,broad_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+restaurant finder india,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,broad_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+food delivery near me,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,broad_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+zomato restaurant discovery,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,broad_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+order food online,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,broad_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+indian food delivery,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,broad_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+zomato food delivery service,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,phrase_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+largest food delivery service india,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,phrase_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+zomato food delivery app,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,exact_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+zomato restaurant finder,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,exact_match,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
++zomato +food +delivery +india,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,modified_broad,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
++zomato +restaurant +discovery +service,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,modified_broad,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
++zomato +online +food +ordering,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,modified_broad,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
++best +food +delivery +app +india,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,modified_broad,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
++zomato +food +delivery +app,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,modified_broad,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
++order +food +online +zomato,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,modified_broad,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
++largest +food +delivery +service +india,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,modified_broad,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
++zomato +restaurant +finder,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,modified_broad,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+what is Zomato Pro?,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+best restaurants near me Zomato,1000,high,0.3,1.4,0.3,0.3999999999999999,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
+how does Zomato delivery work?,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
 Zomato restaurant reviews,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-best deals on Zomato,1000,high,0.3,1.4,0.3,0.3999999999999999,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
-Zomato Gold membership cost,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-Zomato discounts,5000,medium,0.6,2.0,0.15,0.35500000000000004,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,100,200.0,2.0,1.0,0.356,2.34
-order food Zomato app,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-Zomato online order,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-order food now Zomato,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-place Zomato order,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-Zomato order tracking,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+how to use Zomato Gold,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+what are the top-rated restaurants on Zomato?,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+how to find restaurants open now on Zomato,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Zomato login,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
+Zomato app download,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Zomato website,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
+Zomato customer service,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+Zomato careers,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
+Zomato investor relations,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Zomato blog,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
+Zomato vs Swiggy,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+Zomato restaurant deals,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+top 10 restaurants in Mumbai Zomato,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+Zomato reviews Bangalore,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+compare food delivery apps India,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+best restaurants for delivery Zomato,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
 book a table Zomato,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-swiggy alternatives,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,competitor_brand_keywords,,,unknown,100,200.0,2.0,1.0,0.307,2.24
-order food swiggy,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,competitor_brand_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-swiggy food delivery,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,competitor_brand_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-zomato vs order food,1000,low,0.3,1.4,0.3,0.3999999999999999,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,competitor_brand_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
-order food app comparison,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,competitor_brand_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-quick food delivery,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,competitor_service_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-food delivery apps comparison,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,competitor_service_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-grocery delivery apps,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,competitor_service_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-online restaurant booking,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,competitor_service_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-top restaurants in [city],1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,alternative_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-fastest food delivery,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,alternative_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-cheap food delivery,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,alternative_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-local restaurant delivery,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,alternative_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-online food ordering sites,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,alternative_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-find restaurants nearby,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,alternative_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-food delivery apps without minimum order,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,alternative_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-food delivery app comparison chart,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,comparison_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-cheaper than swiggy,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,better_than_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-better restaurant selection than swiggy,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,better_than_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-more reliable than swiggy,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,better_than_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-zomato better deals,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,better_than_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+Zomato online ordering,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+place order Zomato,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+Zomato online payment,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_expansion,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+zomato vs foodpanda,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,competitor_brand_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+zomato vs dineout,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,competitor_brand_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+zomato vs magicpin,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,competitor_brand_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+zomato alternatives,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,competitor_brand_keywords,,,unknown,100,200.0,2.0,1.0,0.307,2.24
+best zomato competitor,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,competitor_brand_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+swiggy food delivery,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,competitor_service_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+foodpanda online ordering,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,competitor_service_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+dineout restaurant reservations,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,competitor_service_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+magicpin deals,5000,medium,0.6,2.0,0.15,0.35500000000000004,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,competitor_service_keywords,,,unknown,100,200.0,2.0,1.0,0.356,2.34
+swiggy restaurant discovery,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,competitor_service_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+foodpanda discounts,5000,medium,0.6,2.0,0.15,0.35500000000000004,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,competitor_service_keywords,,,unknown,100,200.0,2.0,1.0,0.356,2.34
+online food delivery services India,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,competitor_service_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+restaurant reservation apps India,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,competitor_service_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+alternative to zomato,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,alternative_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+restaurant finder app,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,alternative_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+best dining apps,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,alternative_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+local food delivery,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,alternative_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+zomato vs competitors,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,comparison_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+food delivery app comparison India,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,comparison_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+better than swiggy,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,better_than_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+faster than foodpanda,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,better_than_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+cheaper than dineout,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,better_than_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+more restaurants than swiggy,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,better_than_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+best restaurant discovery app,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,better_than_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
 superior food delivery service,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,better_than_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-best customer service food delivery,1000,high,0.3,1.4,0.3,0.3999999999999999,0,unknown,,,unknown,unknown,llm_competitor_based,unknown,better_than_keywords,,,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
-Zomato restaurants Delhi NCR,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,location_specific_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-best restaurants Bangalore Zomato,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_location_based,unknown,,location_specific_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-dining options Hyderabad Zomato,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,location_specific_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-Zomato service Kolkata,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_location_based,unknown,,location_specific_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-Zomato restaurants Pune,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,location_specific_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-dining options near me Zomato,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_location_based,unknown,,near_me_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-order food near me Zomato,1000,high,0.3,1.4,0.3,0.3999999999999999,0,unknown,,,unknown,unknown,llm_location_based,unknown,,near_me_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
-restaurants close to me Zomato,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,near_me_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-Zomato nearby,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,llm_location_based,unknown,,near_me_keywords,,unknown,100,200.0,2.0,1.0,0.307,2.24
-service near me Zomato,1000,high,0.3,1.4,0.3,0.3999999999999999,0,unknown,,,unknown,unknown,llm_location_based,unknown,,near_me_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
+Zomato food delivery Mumbai,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,location_specific_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Zomato dining Bangalore,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,location_specific_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Zomato in Kolkata,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,location_specific_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Zomato Pune,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,llm_location_based,unknown,,location_specific_keywords,,unknown,100,200.0,2.0,1.0,0.307,2.24
+Zomato Goa,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,llm_location_based,unknown,,location_specific_keywords,,unknown,100,200.0,2.0,1.0,0.307,2.24
+dining options near me,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_location_based,unknown,,near_me_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+discovery service near me,1000,high,0.3,1.4,0.3,0.3999999999999999,0,unknown,,,unknown,unknown,llm_location_based,unknown,,near_me_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
+food delivery close to me,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,near_me_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+nearby restaurants Zomato,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,near_me_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
 best local restaurants Zomato,1000,high,0.3,1.4,0.3,0.3999999999999999,0,unknown,,,unknown,unknown,llm_location_based,unknown,,local_service_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
-Zomato local dining options,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_location_based,unknown,,local_service_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-local service Zomato,1000,high,0.3,1.4,0.3,0.3999999999999999,0,unknown,,,unknown,unknown,llm_location_based,unknown,,local_service_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
-in my area Zomato,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,local_service_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-your ultimate local dining Zomato,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_location_based,unknown,,local_service_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-Zomato in your area,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,local_service_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-Zomato restaurants Noida,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,city_based_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-Zomato Gurgaon food,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,city_based_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-best restaurants in Tamil Nadu Zomato,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_location_based,unknown,,regional_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-Zomato dining options Karnataka,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,regional_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-Zomato service West Bengal,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_location_based,unknown,,regional_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-restaurants in Uttar Pradesh Zomato,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,regional_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-Zomato Rajasthan,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,llm_location_based,unknown,,regional_keywords,,unknown,100,200.0,2.0,1.0,0.307,2.24
-Where can I find the best dining deals and offers on Zomato?,1000,high,0.3,1.4,0.44999999999999996,0.44499999999999995,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,question_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.394,1.68
-When is the best time to order food on Zomato for quick delivery?,1000,high,0.3,1.4,0.3,0.3999999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,question_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
-Which restaurants offer vegetarian options on Zomato in [City Name]?,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,question_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-What are the most popular cuisines available on Zomato in India?,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,question_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-How does Zomato's food delivery service compare to other apps in India?,1000,high,0.3,1.4,0.3,0.3999999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,question_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
-Finding quick and easy dinner options with Zomato's restaurant finder,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,problem_solution_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-Zomato: No time to cook? Order delicious food online.,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,problem_solution_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-Tired of cooking? Zomato delivers restaurant-quality food to your door.,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,problem_solution_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-Avoid restaurant crowds with Zomato's easy online ordering system.,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,problem_solution_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-Craving specific cuisine? Zomato helps you find the perfect restaurant.,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,problem_solution_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-Need a hassle-free food delivery? Zomato is your solution.,1000,high,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,problem_solution_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-Finding the best restaurants in [City Name] with Zomato's search filters.,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,problem_solution_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-Zomato's online restaurant reservation system in Delhi,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,specific_service_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-Zomato's instant food delivery options within an hour,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,specific_service_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-Zomato's curated list of best restaurants in Bangalore,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,specific_service_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-Using Zomato's payment options for secure online transactions,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,specific_service_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-Enjoy delicious food at your fingertips with Zomato's app,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,benefit_focused_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-Save time and effort with Zomato's convenient food delivery service,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,benefit_focused_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-Experience a wide variety of cuisines with Zomato's vast restaurant network,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,benefit_focused_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-Get restaurant-quality food delivered quickly and efficiently with Zomato,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,benefit_focused_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-Enhance your dining experience with Zomato's seamless ordering process,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,benefit_focused_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-Enjoy exclusive deals and discounts with Zomato's loyalty programs,1000,low,0.3,1.4,0.3,0.3999999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,benefit_focused_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
-Access a vast selection of restaurants with Zomato's user-friendly app,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,benefit_focused_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-Zomato's best fine dining restaurants in Hyderabad,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,niche_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-Zomato's top-rated South Indian restaurants in Chennai,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,niche_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-Order healthy food options on Zomato for weight loss,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,niche_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-Zomato's gluten-free and vegan restaurant options in India,1000,high,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,niche_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-Zomato's late-night food delivery service in Kolkata,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,niche_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-Zomato's options for corporate catering in India,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,niche_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-Zomato's restaurant options for special occasions and events,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,niche_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-dining table,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
-dining chair,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
-dining room,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
-service plus,5000,high,0.6,2.0,0.15,0.35500000000000004,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.356,2.34
-servicenow,10000,high,0.8,3.0,0.15,0.425,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,200,600.0,4.0,0.6666666666666666,0.484,3.64
-service online bihar,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-servicenow share price,1000,high,0.3,1.4,0.3,0.3999999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
-servicenow developer,5000,high,0.6,2.0,0.15,0.35500000000000004,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.356,2.34
-service centre,5000,high,0.6,2.0,0.15,0.35500000000000004,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.356,2.34
-your fingertips across my skin,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-your fingertips 2007,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-your fingertips hiroshi ishikawa,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-your fingertips meaning,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-at your fingertips strands,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-bite your fingertips,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-at your fingertips crossword clue,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-at your fingertips synonym,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-dining out options for diabetics,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-eat out options near me,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-dine out option in swiggy,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-healthy dining out options,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-healthiest dining out options,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-keto dining out options,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-food delivery in train,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-food delivery website,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-food delivery app chennai,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-your ultimate love rival reddit,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-your ultimate fantasy meaning,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-your ultimate 3d car configurator,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-your ultimate destination,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-your ultimate structures inc,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-your ultimate patty place,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-your ultimate choice llc,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-your ultimate glow up guide,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-more people synonyms,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-more people meaning,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-more people more land,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-more people images,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-more people are watching your short,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-more people in the world,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-more people more merrier,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-more people photo,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-more people more problems,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+nearby dining Zomato,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,local_service_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+local food discovery service,1000,high,0.3,1.4,0.3,0.3999999999999999,0,unknown,,,unknown,unknown,llm_location_based,unknown,,local_service_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
+Zomato your area,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,local_service_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+in my area food delivery,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,local_service_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+local food deals Zomato,1000,high,0.3,1.4,0.3,0.3999999999999999,0,unknown,,,unknown,unknown,llm_location_based,unknown,,local_service_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
+best restaurants in your area,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_location_based,unknown,,local_service_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+Zomato Delhi food delivery,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,city_based_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Hyderabad Zomato best restaurants,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_location_based,unknown,,city_based_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+Chennai Zomato food,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,city_based_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Zomato restaurants in Gurgaon,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,city_based_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Zomato Noida,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,llm_location_based,unknown,,city_based_keywords,,unknown,100,200.0,2.0,1.0,0.307,2.24
+Zomato Maharashtra,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,llm_location_based,unknown,,regional_keywords,,unknown,100,200.0,2.0,1.0,0.307,2.24
+Zomato Tamil Nadu,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,regional_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+food delivery in Gujarat Zomato,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,regional_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Zomato restaurants in Karnataka,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,regional_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Zomato Andhra Pradesh,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,regional_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Zomato West Bengal,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_location_based,unknown,,regional_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+best food in Uttar Pradesh Zomato,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_location_based,unknown,,regional_keywords,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+Zomato Kerala,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,llm_location_based,unknown,,regional_keywords,,unknown,100,200.0,2.0,1.0,0.307,2.24
+What is the best food delivery service in India?,1000,high,0.3,1.4,0.3,0.3999999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,question_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
+When is the best time to order food on Zomato?,1000,high,0.3,1.4,0.3,0.3999999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,question_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
+Which restaurants on Zomato offer vegetarian options?,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,question_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+How does Zomato's food delivery service compare to Swiggy?,1000,high,0.3,1.4,0.3,0.3999999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,question_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
+Solving late-night hunger pangs with Zomato food delivery,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,problem_solution_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Finding healthy food options for weight loss with Zomato,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,problem_solution_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Eliminating the hassle of cooking with Zomato's food delivery,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,problem_solution_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Discovering hidden culinary gems in India through Zomato,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,problem_solution_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Avoiding long restaurant wait times with Zomato's online ordering,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,problem_solution_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+Finding the perfect restaurant for a special occasion with Zomato,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,problem_solution_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Comparing restaurant prices and menus easily with Zomato,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,problem_solution_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+Zomato's restaurant discovery service in Hyderabad,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,specific_service_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+Zomato's contactless food delivery option,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,specific_service_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Zomato's in-app restaurant reservations,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,specific_service_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Zomato Gold membership benefits and discounts,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,specific_service_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+Zomato Pro subscription features and advantages,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,specific_service_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Save time and effort with Zomato's fast food delivery,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,benefit_focused_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Enjoy a wider variety of cuisines with Zomato's vast selection,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,benefit_focused_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Experience delicious food from your favorite restaurants with Zomato,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,benefit_focused_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Get the best deals and discounts on food with Zomato,1000,high,0.3,1.4,0.44999999999999996,0.44499999999999995,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,benefit_focused_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.394,1.68
+Discover new and exciting restaurants with Zomato's recommendations,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,benefit_focused_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Improve your dining experience with Zomato's user-friendly app,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,benefit_focused_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Enjoy convenient and reliable food delivery with Zomato,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,benefit_focused_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Enhance your social dining experience with Zomato's restaurant discovery,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,benefit_focused_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Best fine dining restaurants on Zomato in Mumbai,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,niche_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+Top-rated street food options on Zomato in Delhi,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,niche_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+Zomato's selection of organic and healthy food options,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,niche_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Zomato's delivery service for specific dietary restrictions,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,niche_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+Finding vegan and vegetarian restaurants on Zomato,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,niche_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Zomato's exclusive partnerships with top chefs in India,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,niche_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+Zomato's curated restaurant guides for various occasions,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,niche_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+Zomato's focus on supporting local restaurants in India,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,llm_longtail,unknown,,,niche_keywords,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+discovery channel,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
+discovery car,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
+discovery plus,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
+discovery sport,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
+discovery of india,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+discovery of electron,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+discovery of proton,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+discovery village nandi hills,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+food odisha,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
+food on train,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+food chain,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
+food poisoning,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
+food license,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
+food supply,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
+food corporation of india,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+food court near me,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
 people first,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
 peoplestrong,10000,high,0.8,3.0,0.0,0.38,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,200,600.0,4.0,0.6666666666666666,0.435,3.48
 peopleperhour,10000,high,0.8,3.0,0.0,0.38,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,200,600.0,4.0,0.6666666666666666,0.435,3.48
 people meaning in hindi,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-people tree hospital,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
 peoples mall bhopal,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+people tree hospital,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+people like us,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
 peoplestrong login,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
 people work,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
-people media factory,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-best restaurants delhi,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-best restaurants mumbai,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-best restaurants in jaipur,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-best restaurants pune,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-best restaurants chennai,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-best restaurants in mysore,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-order food in train,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-order book,5000,medium,0.6,2.0,0.15,0.35500000000000004,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.356,2.34
-order medicine online,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-order 7 rule 11,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-order pvc aadhar card,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-order aadhaar pvc card,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-order of draw,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-order to cash process,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-zomato share price,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-zomato delivery partner,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-zomato coupon code,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-best new movies,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-best new films,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-best mehndi design simple,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-best phone under 20000,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-best phone under 15000,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-best friend birthday wishes,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-best camera phone,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
 service discovery best practices,1000,high,0.3,1.4,0.3,0.3999999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
-discovery car service cost,1000,high,0.3,1.4,0.3,0.3999999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
 discovery maintenance cost,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-options trading,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
-options chain,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
-options meaning in hindi,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-options angamaly,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
-options futures and other derivatives,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-options after 12th science,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-options perumbavoor,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
-find convenience store near me,1000,high,0.3,1.4,0.3,0.3999999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
-how to find convenience,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-find nearest convenience store,1000,low,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
-nearest first convenience,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
-how to get a convenience check,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+largest country in the world,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+largest state in india,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+largest organ in human body,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+largest lake in india,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+largest river in india,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+dining table,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
+dining chair,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
+dining room,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
+more images,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
+more supermarket,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
+more meaning in hindi,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+morena,10000,high,0.8,3.0,0.0,0.38,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,200,600.0,4.0,0.6666666666666666,0.435,3.48
+moreover meaning in hindi,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+more than friends,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+more than a married couple,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+more than symbol,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+morena baccarin,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
+food delivery restaurant,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+zomato food delivery & dining,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+discovery servicenow,5000,high,0.6,2.0,0.15,0.35500000000000004,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,100,200.0,2.0,1.0,0.356,2.34
+discovery service in microservices,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+discovery service cost,1000,high,0.3,1.4,0.3,0.3999999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
+discovery service in spring boot,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+discovery services in library,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+more people synonyms,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+more people meaning,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+more people more land,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+more people are watching your short,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+more people in the world,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+more people more merrier,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+more people more problems,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+more people photo,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+better food co,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+better food factory,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+better food co. menu,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+better food for liver,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+better food company,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+better food for eyes,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+better food ventures,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+largest food delivery companies,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+largest food delivery apps,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+largest food delivery app in the uk,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+food delivery in train,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+food delivery apps in bangalore,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+food delivery website,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+food delivery app chennai,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+delivery dining near me,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+restaurant discovery gardens,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+restaurant discovery bay,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+restaurant discovery mall,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+restaurant discovery green,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+restaurant discovery platform,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+restaurant discovery park,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+restaurant discovery primea,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+restaurant discovery ancol,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_autocomplete,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+"Discovery Village Kanakapura
+Resort hotel · Voddarahalli, Karnataka",1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_search,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+"Discovery Village Kabini
+Resort hotel · Mysore District, N.Belthur, Karnataka",1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_search,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+"Discovery
+Television producer",1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_search,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+food mangalore,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_search,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
+food civil supplies,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_search,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+food places near me,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_search,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+food and civil,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_search,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+People Tree Ltd.,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_search,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+people meaning in kannada,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_search,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+people media factory,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_search,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+service discovery vs gateway,1000,high,0.3,1.4,0.3,0.3999999999999999,0,unknown,,,unknown,unknown,google_search,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.345,1.62
+discovery service dynamics 365,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_search,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+largest district in karnataka,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_search,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+dining hall,5000,medium,0.6,2.0,0.0,0.31000000000000005,0,unknown,,,unknown,unknown,google_search,unknown,,,,unknown,100,200.0,2.0,1.0,0.307,2.24
+more meaning in kannada,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_search,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+more opposite word,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_search,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+"Morena
+Town in India",1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_search,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48
+discovery service team,1000,high,0.3,1.4,0.15,0.3549999999999999,0,unknown,,,unknown,unknown,google_search,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.296,1.55
+more people game,1000,low,0.3,1.4,0.0,0.30999999999999994,0,unknown,,,unknown,unknown,google_search,unknown,,,,unknown,20,28.0,0.4,1.4285714285714286,0.247,1.48

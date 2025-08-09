@@ -1,15 +1,15 @@
 {
-  "total_keywords": 206,
-  "high_volume_keywords": 64,
-  "medium_volume_keywords": 19,
-  "low_volume_keywords": 123,
+  "total_keywords": 231,
+  "high_volume_keywords": 55,
+  "medium_volume_keywords": 32,
+  "low_volume_keywords": 144,
   "high_difficulty_keywords": 0,
   "medium_difficulty_keywords": 0,
   "low_difficulty_keywords": 0,
-  "total_estimated_clicks": 6420,
-  "total_estimated_cost": 11268.0,
-  "total_estimated_conversions": 128.40000000000032,
-  "average_cpc": 1.487378640776699,
-  "average_competition": 0.33932038834951445,
-  "average_commercial_intent": 0.0808252427184466
+  "total_estimated_clicks": 7800,
+  "total_estimated_cost": 13860.0,
+  "total_estimated_conversions": 156.00000000000045,
+  "average_cpc": 1.5064935064935066,
+  "average_competition": 0.34935064935064924,
+  "average_commercial_intent": 0.05519480519480519
 }

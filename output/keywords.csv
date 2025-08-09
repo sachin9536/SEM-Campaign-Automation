@@ -1,206 +1,235 @@
 ad_group,keyword,type,search_volume,search_volume_category,competition,cpc,commercial_intent,relevance_score,source,match_type,intent_type,competitor_type,location_type,longtail_type,search_intent,keyword_theme,intent_theme_group,preliminary_match_type,difficulty_score,difficulty_category
-Ad Group - Food (long-tail),food delivery india,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,broad_match,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Food (long-tail),food delivery options near me,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_expansion,phrase_match,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Food (long-tail),food delivery apps comparison,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_competitor_based,,,competitor_service_keywords,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Food (long-tail),food delivery apps without minimum order,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_competitor_based,,,alternative_keywords,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Food (long-tail),food delivery app comparison chart,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_competitor_based,,,comparison_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),zomato food delivery india,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,broad_match,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),zomato restaurant discovery,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,broad_match,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),zomato food delivery service,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_expansion,phrase_match,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),zomato food delivery app,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,exact_match,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),zomato restaurant finder,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,exact_match,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),zomato vs foodpanda,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_competitor_based,,,competitor_brand_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),zomato vs dineout,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_competitor_based,,,competitor_brand_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),zomato vs magicpin,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_competitor_based,,,competitor_brand_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),zomato vs competitors,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_competitor_based,,,comparison_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),zomato food delivery & dining,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Best (long-tail),best food delivery app,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_expansion,broad_match,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Best (long-tail),best restaurants near me Zomato,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Best (long-tail),best restaurants for delivery Zomato,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Best (long-tail),best zomato competitor,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_competitor_based,,,competitor_brand_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Best (long-tail),best dining apps,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_competitor_based,,,alternative_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Best (long-tail),best restaurant discovery app,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_competitor_based,,,better_than_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Best (long-tail),best local restaurants Zomato,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,llm_location_based,,,,local_service_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Best (long-tail),best restaurants in your area,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_location_based,,,,local_service_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Best (long-tail),best food in Uttar Pradesh Zomato,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_location_based,,,,regional_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Online (long-tail),online food ordering,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_expansion,broad_match,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Online (long-tail),online food delivery services India,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_competitor_based,,,competitor_service_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Restaurant (long-tail),restaurant finder india,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,broad_match,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Restaurant (long-tail),restaurant reservation apps India,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_competitor_based,,,competitor_service_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Restaurant (long-tail),restaurant finder app,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_competitor_based,,,alternative_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Restaurant (long-tail),restaurant discovery gardens,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Restaurant (long-tail),restaurant discovery bay,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Restaurant (long-tail),restaurant discovery mall,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Restaurant (long-tail),restaurant discovery green,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Restaurant (long-tail),restaurant discovery platform,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Restaurant (long-tail),restaurant discovery park,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Restaurant (long-tail),restaurant discovery primea,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Restaurant (long-tail),restaurant discovery ancol,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Food (long-tail),food delivery near me,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_expansion,broad_match,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Food (long-tail),food delivery app comparison India,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_competitor_based,,,comparison_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Food (long-tail),food delivery close to me,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,near_me_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Food (long-tail),food delivery in Gujarat Zomato,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,regional_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Food (long-tail),food on train,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Food (long-tail),food corporation of india,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Food (long-tail),food court near me,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Food (long-tail),food delivery restaurant,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
 Ad Group - Food (long-tail),food delivery in train,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Food (long-tail),food delivery apps in bangalore,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
 Ad Group - Food (long-tail),food delivery website,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
 Ad Group - Food (long-tail),food delivery app chennai,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Online (long-tail),online food order,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_expansion,broad_match,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Online (long-tail),online food ordering service,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,llm_expansion,phrase_match,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Online (long-tail),online restaurant booking,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_competitor_based,,,competitor_service_keywords,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Online (long-tail),online food ordering sites,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_competitor_based,,,alternative_keywords,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Restaurant (phrase),restaurant discovery,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,llm_expansion,broad_match,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Best (long-tail),best restaurants near me,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,llm_expansion,broad_match,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Best (long-tail),best restaurants in india,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_expansion,phrase_match,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Best (long-tail),best restaurants on zomato,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_expansion,exact_match,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Best (long-tail),best deals on Zomato,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Best (long-tail),best customer service food delivery,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,llm_competitor_based,,,better_than_keywords,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Best (long-tail),best restaurants Bangalore Zomato,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_location_based,,,,location_specific_keywords,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Best (long-tail),best local restaurants Zomato,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,llm_location_based,,,,local_service_keywords,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Best (long-tail),best restaurants in Tamil Nadu Zomato,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_location_based,,,,regional_keywords,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Best (long-tail),best restaurants delhi,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Best (long-tail),best restaurants mumbai,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Best (long-tail),best restaurants in jaipur,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Best (long-tail),best restaurants pune,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Best (long-tail),best restaurants chennai,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Best (long-tail),best restaurants in mysore,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Best (long-tail),best new movies,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Best (long-tail),best new films,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Best (long-tail),best mehndi design simple,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Best (long-tail),best phone under 20000,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Best (long-tail),best phone under 15000,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Best (long-tail),best friend birthday wishes,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato (long-tail),zomato food delivery,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,broad_match,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato (long-tail),zomato vs order food,long-tail,1000,low,0.3,1.4,0.3,0.3999999999999999,llm_competitor_based,,,competitor_brand_keywords,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato (long-tail),zomato better deals,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_competitor_based,,,better_than_keywords,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato (long-tail),zomato share price,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato (long-tail),zomato delivery partner,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato (long-tail),zomato coupon code,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Swiggy (phrase),swiggy zomato,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,llm_expansion,broad_match,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Swiggy (phrase),swiggy alternatives,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,llm_competitor_based,,,competitor_brand_keywords,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Discover (long-tail),discover best restaurants zomato,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_expansion,phrase_match,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Download (long-tail),download zomato app,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,exact_match,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Find (long-tail),find restaurants near me zomato,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_expansion,exact_match,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Find (long-tail),find restaurants nearby,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_competitor_based,,,alternative_keywords,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Find (long-tail),find convenience store near me,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Find (long-tail),find nearest convenience store,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - +Zomato (long-tail),+zomato +food +delivery,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,modified_broad,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - +Zomato (long-tail),+zomato +best +restaurants,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_expansion,modified_broad,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - +Zomato (long-tail),+zomato +restaurant +discovery,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,modified_broad,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - +Zomato (long-tail),+zomato +online +food +order,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_expansion,modified_broad,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - +Order (long-tail),+order +food +online +india,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_expansion,modified_broad,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - +Food (long-tail),+food +delivery +app +india,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,modified_broad,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - +Find (long-tail),+find +restaurants +near +me,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,modified_broad,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - +Swiggy (long-tail),+swiggy +zomato +comparison,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,modified_broad,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - What (long-tail),what is Zomato pro,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - What (long-tail),what are the benefits of Zomato Gold,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - How (long-tail),how to find restaurants on Zomato,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - How (long-tail),how to use Zomato app,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - How (long-tail),how to find convenience,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - How (long-tail),how to get a convenience check,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Food (long-tail),food civil supplies,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_search,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Food (long-tail),food places near me,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,google_search,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Food (long-tail),food and civil,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_search,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Order (long-tail),order food online,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_expansion,broad_match,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Indian (long-tail),indian food delivery,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,broad_match,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Largest (long-tail),largest food delivery service india,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_expansion,phrase_match,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Largest (long-tail),largest country in the world,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Largest (long-tail),largest state in india,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Largest (long-tail),largest organ in human body,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Largest (long-tail),largest lake in india,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Largest (long-tail),largest river in india,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Largest (long-tail),largest food delivery companies,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Largest (long-tail),largest food delivery apps,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Largest (long-tail),largest food delivery app in the uk,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Largest (long-tail),largest district in karnataka,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_search,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - +Zomato (long-tail),+zomato +food +delivery +india,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,modified_broad,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - +Zomato (long-tail),+zomato +restaurant +discovery +service,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_expansion,modified_broad,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - +Zomato (long-tail),+zomato +online +food +ordering,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_expansion,modified_broad,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - +Zomato (long-tail),+zomato +food +delivery +app,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,modified_broad,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - +Zomato (long-tail),+zomato +restaurant +finder,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,modified_broad,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - +Best (long-tail),+best +food +delivery +app +india,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_expansion,modified_broad,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - +Order (long-tail),+order +food +online +zomato,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_expansion,modified_broad,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - +Largest (long-tail),+largest +food +delivery +service +india,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_expansion,modified_broad,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - What (long-tail),what is Zomato Pro?,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - What (long-tail),what are the top-rated restaurants on Zomato?,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - How (long-tail),how does Zomato delivery work?,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - How (long-tail),how to use Zomato Gold,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - How (long-tail),how to find restaurants open now on Zomato,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),Zomato restaurant reviews,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),Zomato app download,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),Zomato customer service,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),Zomato investor relations,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),Zomato vs Swiggy,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),Zomato restaurant deals,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),Zomato reviews Bangalore,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),Zomato online ordering,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),Zomato online payment,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),Zomato food delivery Mumbai,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,location_specific_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),Zomato dining Bangalore,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,location_specific_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),Zomato in Kolkata,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,location_specific_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),Zomato your area,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,local_service_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),Zomato Delhi food delivery,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,city_based_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),Zomato restaurants in Gurgaon,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,city_based_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),Zomato Tamil Nadu,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,regional_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),Zomato restaurants in Karnataka,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,regional_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),Zomato Andhra Pradesh,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,regional_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),Zomato West Bengal,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,regional_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (long-tail),Zomato Gold membership benefits and discounts,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_longtail,,,,,specific_service_keywords,unknown,unknown,unknown,unknown,0,unknown
 Ad Group - Zomato (phrase),Zomato login,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
 Ad Group - Zomato (phrase),Zomato website,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato (phrase),Zomato discounts,phrase,5000,medium,0.6,2.0,0.15,0.35500000000000004,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato (phrase),Zomato nearby,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,llm_location_based,,,,near_me_keywords,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato (phrase),Zomato Rajasthan,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,llm_location_based,,,,regional_keywords,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato (long-tail),Zomato customer care,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato (long-tail),Zomato restaurant reviews,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato (long-tail),Zomato Gold membership cost,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato (long-tail),Zomato online order,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato (long-tail),Zomato order tracking,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato (long-tail),Zomato restaurants Delhi NCR,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,location_specific_keywords,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato (long-tail),Zomato service Kolkata,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_location_based,,,,location_specific_keywords,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato (long-tail),Zomato restaurants Pune,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,location_specific_keywords,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato (long-tail),Zomato local dining options,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_location_based,,,,local_service_keywords,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato (long-tail),Zomato in your area,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,local_service_keywords,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato (long-tail),Zomato restaurants Noida,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,city_based_keywords,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato (long-tail),Zomato Gurgaon food,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,city_based_keywords,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato (long-tail),Zomato dining options Karnataka,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,regional_keywords,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato (long-tail),Zomato service West Bengal,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_location_based,,,,regional_keywords,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Top (long-tail),top restaurants in Mumbai Zomato,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Top (long-tail),top restaurants in [city],long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_competitor_based,,,alternative_keywords,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Order (long-tail),order food Zomato app,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Order (long-tail),order food now Zomato,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Order (long-tail),order food swiggy,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_competitor_based,,,competitor_brand_keywords,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Order (long-tail),order food app comparison,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_competitor_based,,,competitor_brand_keywords,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Order (long-tail),order food near me Zomato,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,llm_location_based,,,,near_me_keywords,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Order (long-tail),order food in train,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Order (long-tail),order medicine online,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Order (long-tail),order 7 rule 11,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Order (long-tail),order pvc aadhar card,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Order (long-tail),order aadhaar pvc card,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Order (long-tail),order of draw,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Order (long-tail),order to cash process,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Place (long-tail),place Zomato order,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (phrase),Zomato careers,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (phrase),Zomato blog,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (phrase),Zomato Pune,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,llm_location_based,,,,location_specific_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (phrase),Zomato Goa,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,llm_location_based,,,,location_specific_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (phrase),Zomato Noida,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,llm_location_based,,,,city_based_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (phrase),Zomato Maharashtra,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,llm_location_based,,,,regional_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (phrase),Zomato Kerala,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,llm_location_based,,,,regional_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Top (long-tail),top 10 restaurants in Mumbai Zomato,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Compare (long-tail),compare food delivery apps India,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
 Ad Group - Book (long-tail),book a table Zomato,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Swiggy (long-tail),swiggy food delivery,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_competitor_based,,,competitor_brand_keywords,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Quick (long-tail),quick food delivery,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_competitor_based,,,competitor_service_keywords,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Grocery (long-tail),grocery delivery apps,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_competitor_based,,,competitor_service_keywords,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Fastest (long-tail),fastest food delivery,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_competitor_based,,,alternative_keywords,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Cheap (long-tail),cheap food delivery,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_competitor_based,,,alternative_keywords,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Local (long-tail),local restaurant delivery,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_competitor_based,,,alternative_keywords,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Local (long-tail),local service Zomato,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,llm_location_based,,,,local_service_keywords,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Cheaper (long-tail),cheaper than swiggy,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_competitor_based,,,better_than_keywords,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Better (long-tail),better restaurant selection than swiggy,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_competitor_based,,,better_than_keywords,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - More (long-tail),more reliable than swiggy,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_competitor_based,,,better_than_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Place (long-tail),place order Zomato,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_expansion,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato (phrase),zomato alternatives,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,llm_competitor_based,,,competitor_brand_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Swiggy (long-tail),swiggy food delivery,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_competitor_based,,,competitor_service_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Swiggy (long-tail),swiggy restaurant discovery,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_competitor_based,,,competitor_service_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Foodpanda (long-tail),foodpanda online ordering,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_competitor_based,,,competitor_service_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Dineout (long-tail),dineout restaurant reservations,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_competitor_based,,,competitor_service_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Magicpin (phrase),magicpin deals,phrase,5000,medium,0.6,2.0,0.15,0.35500000000000004,llm_competitor_based,,,competitor_service_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Foodpanda (phrase),foodpanda discounts,phrase,5000,medium,0.6,2.0,0.15,0.35500000000000004,llm_competitor_based,,,competitor_service_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Alternative (long-tail),alternative to zomato,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_competitor_based,,,alternative_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Local (long-tail),local food delivery,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_competitor_based,,,alternative_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Local (long-tail),local food discovery service,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,llm_location_based,,,,local_service_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Local (long-tail),local food deals Zomato,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,llm_location_based,,,,local_service_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Better (long-tail),better than swiggy,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_competitor_based,,,better_than_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Better (long-tail),better food co,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Better (long-tail),better food factory,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Better (long-tail),better food co. menu,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Better (long-tail),better food for liver,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Better (long-tail),better food company,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Better (long-tail),better food for eyes,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Better (long-tail),better food ventures,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Faster (long-tail),faster than foodpanda,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_competitor_based,,,better_than_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Cheaper (long-tail),cheaper than dineout,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_competitor_based,,,better_than_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - More (long-tail),more restaurants than swiggy,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_competitor_based,,,better_than_keywords,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - More (long-tail),more meaning in hindi,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - More (long-tail),more than friends,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - More (long-tail),more than a married couple,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - More (long-tail),more than symbol,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
 Ad Group - More (long-tail),more people synonyms,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
 Ad Group - More (long-tail),more people meaning,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
 Ad Group - More (long-tail),more people more land,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - More (long-tail),more people images,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
 Ad Group - More (long-tail),more people are watching your short,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
 Ad Group - More (long-tail),more people in the world,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
 Ad Group - More (long-tail),more people more merrier,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - More (long-tail),more people photo,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
 Ad Group - More (long-tail),more people more problems,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - More (long-tail),more people photo,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - More (long-tail),more meaning in kannada,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_search,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - More (long-tail),more opposite word,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_search,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - More (long-tail),more people game,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_search,,,,,,unknown,unknown,unknown,unknown,0,unknown
 Ad Group - Superior (long-tail),superior food delivery service,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_competitor_based,,,better_than_keywords,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Dining (long-tail),dining options Hyderabad Zomato,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,location_specific_keywords,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Dining (long-tail),dining options near me Zomato,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_location_based,,,,near_me_keywords,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Dining (long-tail),dining out options for diabetics,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Restaurants (long-tail),restaurants close to me Zomato,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,near_me_keywords,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Restaurants (long-tail),restaurants in Uttar Pradesh Zomato,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,regional_keywords,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Service (long-tail),service near me Zomato,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,llm_location_based,,,,near_me_keywords,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Service (long-tail),service online bihar,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Service (long-tail),service discovery best practices,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - In (long-tail),in my area Zomato,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,local_service_keywords,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Your (long-tail),your ultimate local dining Zomato,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_location_based,,,,local_service_keywords,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Your (long-tail),your fingertips across my skin,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Your (long-tail),your fingertips 2007,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Your (long-tail),your fingertips hiroshi ishikawa,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Your (long-tail),your fingertips meaning,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Your (long-tail),your ultimate love rival reddit,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Your (long-tail),your ultimate fantasy meaning,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Your (long-tail),your ultimate 3d car configurator,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Your (long-tail),your ultimate destination,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Your (long-tail),your ultimate structures inc,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Your (long-tail),your ultimate patty place,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Your (long-tail),your ultimate choice llc,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Your (long-tail),your ultimate glow up guide,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Where (long-tail),Where can I find the best dining deals and offers on Zomato?,long-tail,1000,high,0.3,1.4,0.44999999999999996,0.44499999999999995,llm_longtail,,,,,question_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - When (long-tail),When is the best time to order food on Zomato for quick delivery?,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,llm_longtail,,,,,question_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Which (long-tail),Which restaurants offer vegetarian options on Zomato in [City Name]?,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_longtail,,,,,question_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - What (long-tail),What are the most popular cuisines available on Zomato in India?,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,question_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - How (long-tail),How does Zomato's food delivery service compare to other apps in India?,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,llm_longtail,,,,,question_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Finding (long-tail),Finding quick and easy dinner options with Zomato's restaurant finder,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,problem_solution_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Finding (long-tail),Finding the best restaurants in [City Name] with Zomato's search filters.,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_longtail,,,,,problem_solution_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato: (long-tail),Zomato: No time to cook? Order delicious food online.,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_longtail,,,,,problem_solution_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Tired (long-tail),Tired of cooking? Zomato delivers restaurant-quality food to your door.,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,problem_solution_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Avoid (long-tail),Avoid restaurant crowds with Zomato's easy online ordering system.,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_longtail,,,,,problem_solution_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Craving (long-tail),Craving specific cuisine? Zomato helps you find the perfect restaurant.,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,problem_solution_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Need (long-tail),Need a hassle-free food delivery? Zomato is your solution.,long-tail,1000,high,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,problem_solution_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato'S (long-tail),Zomato's online restaurant reservation system in Delhi,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,specific_service_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato'S (long-tail),Zomato's instant food delivery options within an hour,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,specific_service_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato'S (long-tail),Zomato's curated list of best restaurants in Bangalore,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_longtail,,,,,specific_service_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato'S (long-tail),Zomato's best fine dining restaurants in Hyderabad,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_longtail,,,,,niche_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato'S (long-tail),Zomato's top-rated South Indian restaurants in Chennai,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_longtail,,,,,niche_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato'S (long-tail),Zomato's gluten-free and vegan restaurant options in India,long-tail,1000,high,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,niche_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato'S (long-tail),Zomato's late-night food delivery service in Kolkata,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_longtail,,,,,niche_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato'S (long-tail),Zomato's options for corporate catering in India,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,niche_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Zomato'S (long-tail),Zomato's restaurant options for special occasions and events,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,niche_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Using (long-tail),Using Zomato's payment options for secure online transactions,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,specific_service_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Enjoy (long-tail),Enjoy delicious food at your fingertips with Zomato's app,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,benefit_focused_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Enjoy (long-tail),Enjoy exclusive deals and discounts with Zomato's loyalty programs,long-tail,1000,low,0.3,1.4,0.3,0.3999999999999999,llm_longtail,,,,,benefit_focused_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Save (long-tail),Save time and effort with Zomato's convenient food delivery service,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_longtail,,,,,benefit_focused_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Experience (long-tail),Experience a wide variety of cuisines with Zomato's vast restaurant network,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,benefit_focused_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Get (long-tail),Get restaurant-quality food delivered quickly and efficiently with Zomato,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,benefit_focused_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Enhance (long-tail),Enhance your dining experience with Zomato's seamless ordering process,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_longtail,,,,,benefit_focused_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Access (long-tail),Access a vast selection of restaurants with Zomato's user-friendly app,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,benefit_focused_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Order (long-tail),Order healthy food options on Zomato for weight loss,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_longtail,,,,,niche_keywords,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Dining (phrase),dining table,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Dining (phrase),dining chair,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Dining (phrase),dining room,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Service (phrase),service plus,phrase,5000,high,0.6,2.0,0.15,0.35500000000000004,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Service (phrase),service centre,phrase,5000,high,0.6,2.0,0.15,0.35500000000000004,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Servicenow (broad),servicenow,broad,10000,high,0.8,3.0,0.15,0.425,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Servicenow (long-tail),servicenow share price,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Servicenow (phrase),servicenow developer,phrase,5000,high,0.6,2.0,0.15,0.35500000000000004,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - At (long-tail),at your fingertips strands,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - At (long-tail),at your fingertips crossword clue,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - At (long-tail),at your fingertips synonym,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Bite (long-tail),bite your fingertips,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Eat (long-tail),eat out options near me,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Dine (long-tail),dine out option in swiggy,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Healthy (long-tail),healthy dining out options,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Healthiest (long-tail),healthiest dining out options,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Keto (long-tail),keto dining out options,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Dining (long-tail),dining options near me,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_location_based,,,,near_me_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Discovery (long-tail),discovery service near me,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,llm_location_based,,,,near_me_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Discovery (long-tail),discovery of india,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Discovery (long-tail),discovery of electron,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Discovery (long-tail),discovery of proton,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Discovery (long-tail),discovery village nandi hills,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Discovery (long-tail),discovery maintenance cost,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Discovery (long-tail),discovery service in microservices,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Discovery (long-tail),discovery service cost,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Discovery (long-tail),discovery service in spring boot,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Discovery (long-tail),discovery services in library,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Discovery (long-tail),discovery service dynamics 365,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,google_search,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Discovery (long-tail),discovery service team,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,google_search,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Nearby (long-tail),nearby restaurants Zomato,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,near_me_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Nearby (long-tail),nearby dining Zomato,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,local_service_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - In (long-tail),in my area food delivery,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,local_service_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Hyderabad (long-tail),Hyderabad Zomato best restaurants,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_location_based,,,,city_based_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Chennai (long-tail),Chennai Zomato food,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_location_based,,,,city_based_keywords,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - What (long-tail),What is the best food delivery service in India?,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,llm_longtail,,,,,question_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - When (long-tail),When is the best time to order food on Zomato?,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,llm_longtail,,,,,question_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Which (long-tail),Which restaurants on Zomato offer vegetarian options?,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_longtail,,,,,question_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - How (long-tail),How does Zomato's food delivery service compare to Swiggy?,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,llm_longtail,,,,,question_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Solving (long-tail),Solving late-night hunger pangs with Zomato food delivery,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,problem_solution_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Finding (long-tail),Finding healthy food options for weight loss with Zomato,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,problem_solution_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Finding (long-tail),Finding the perfect restaurant for a special occasion with Zomato,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,problem_solution_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Finding (long-tail),Finding vegan and vegetarian restaurants on Zomato,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,niche_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Eliminating (long-tail),Eliminating the hassle of cooking with Zomato's food delivery,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,problem_solution_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Discovering (long-tail),Discovering hidden culinary gems in India through Zomato,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,problem_solution_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Avoiding (long-tail),Avoiding long restaurant wait times with Zomato's online ordering,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_longtail,,,,,problem_solution_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Comparing (long-tail),Comparing restaurant prices and menus easily with Zomato,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,llm_longtail,,,,,problem_solution_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato'S (long-tail),Zomato's restaurant discovery service in Hyderabad,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_longtail,,,,,specific_service_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato'S (long-tail),Zomato's contactless food delivery option,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,specific_service_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato'S (long-tail),Zomato's in-app restaurant reservations,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,specific_service_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato'S (long-tail),Zomato's selection of organic and healthy food options,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,niche_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato'S (long-tail),Zomato's delivery service for specific dietary restrictions,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_longtail,,,,,niche_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato'S (long-tail),Zomato's exclusive partnerships with top chefs in India,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_longtail,,,,,niche_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato'S (long-tail),Zomato's curated restaurant guides for various occasions,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,niche_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Zomato'S (long-tail),Zomato's focus on supporting local restaurants in India,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_longtail,,,,,niche_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Save (long-tail),Save time and effort with Zomato's fast food delivery,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,benefit_focused_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Enjoy (long-tail),Enjoy a wider variety of cuisines with Zomato's vast selection,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,benefit_focused_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Enjoy (long-tail),Enjoy convenient and reliable food delivery with Zomato,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,benefit_focused_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Experience (long-tail),Experience delicious food from your favorite restaurants with Zomato,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,benefit_focused_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Get (long-tail),Get the best deals and discounts on food with Zomato,long-tail,1000,high,0.3,1.4,0.44999999999999996,0.44499999999999995,llm_longtail,,,,,benefit_focused_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Discover (long-tail),Discover new and exciting restaurants with Zomato's recommendations,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,benefit_focused_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Improve (long-tail),Improve your dining experience with Zomato's user-friendly app,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,benefit_focused_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Enhance (long-tail),Enhance your social dining experience with Zomato's restaurant discovery,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,llm_longtail,,,,,benefit_focused_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Best (long-tail),Best fine dining restaurants on Zomato in Mumbai,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_longtail,,,,,niche_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Top-Rated (long-tail),Top-rated street food options on Zomato in Delhi,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,llm_longtail,,,,,niche_keywords,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Discovery (phrase),discovery channel,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Discovery (phrase),discovery car,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Discovery (phrase),discovery plus,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Discovery (phrase),discovery sport,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Discovery (phrase),discovery servicenow,phrase,5000,high,0.6,2.0,0.15,0.35500000000000004,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Food (phrase),food odisha,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Food (phrase),food chain,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Food (phrase),food poisoning,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Food (phrase),food license,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Food (phrase),food supply,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Food (phrase),food mangalore,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_search,,,,,,unknown,unknown,unknown,unknown,0,unknown
 Ad Group - People (phrase),people first,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
 Ad Group - People (phrase),people work,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
 Ad Group - Peoplestrong (broad),peoplestrong,broad,10000,high,0.8,3.0,0.0,0.38,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
 Ad Group - Peopleperhour (broad),peopleperhour,broad,10000,high,0.8,3.0,0.0,0.38,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
 Ad Group - People (long-tail),people meaning in hindi,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
 Ad Group - People (long-tail),people tree hospital,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - People (long-tail),people media factory,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - People (long-tail),people like us,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - People (long-tail),people meaning in kannada,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_search,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - People (long-tail),people media factory,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_search,,,,,,unknown,unknown,unknown,unknown,0,unknown
 Ad Group - Peoples (long-tail),peoples mall bhopal,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
 Ad Group - Peoplestrong (phrase),peoplestrong login,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Order (phrase),order book,phrase,5000,medium,0.6,2.0,0.15,0.35500000000000004,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Discovery (long-tail),discovery car service cost,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Discovery (long-tail),discovery maintenance cost,long-tail,1000,low,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Options (phrase),options trading,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Options (phrase),options chain,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Options (phrase),options angamaly,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Options (phrase),options perumbavoor,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Options (long-tail),options meaning in hindi,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Options (long-tail),options futures and other derivatives,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Options (long-tail),options after 12th science,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
-Ad Group - Nearest (long-tail),nearest first convenience,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Service (long-tail),service discovery best practices,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Service (long-tail),service discovery vs gateway,long-tail,1000,high,0.3,1.4,0.3,0.3999999999999999,google_search,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Dining (phrase),dining table,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Dining (phrase),dining chair,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Dining (phrase),dining room,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Dining (phrase),dining hall,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_search,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - More (phrase),more images,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - More (phrase),more supermarket,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Morena (broad),morena,broad,10000,high,0.8,3.0,0.0,0.38,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Moreover (long-tail),moreover meaning in hindi,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Morena (phrase),morena baccarin,phrase,5000,medium,0.6,2.0,0.0,0.31000000000000005,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Delivery (long-tail),delivery dining near me,long-tail,1000,high,0.3,1.4,0.15,0.3549999999999999,google_autocomplete,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Discovery (long-tail),"Discovery Village Kanakapura
+Resort hotel · Voddarahalli, Karnataka",long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_search,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Discovery (long-tail),"Discovery Village Kabini
+Resort hotel · Mysore District, N.Belthur, Karnataka",long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_search,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Discovery (long-tail),"Discovery
+Television producer",long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_search,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - People (long-tail),People Tree Ltd.,long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_search,,,,,,unknown,unknown,unknown,unknown,0,unknown
+Ad Group - Morena (long-tail),"Morena
+Town in India",long-tail,1000,low,0.3,1.4,0.0,0.30999999999999994,google_search,,,,,,unknown,unknown,unknown,unknown,0,unknown

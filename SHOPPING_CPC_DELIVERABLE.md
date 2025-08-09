@@ -11,12 +11,12 @@ Create a dedicated Shopping CPC table using the assignment's formula:
 
 #### **Shopping CPC Calculations**
 
-- **Total Keywords Processed**: 192 keywords with valid CPC data
+- **Total Keywords Processed**: 206 keywords with valid CPC data
 - **Average Target CPC**: $1.00
-- **Average Adjusted CPC**: $0.98
-- **Average Expected ROAS**: 2.06
+- **Average Adjusted CPC**: $0.93
+- **Average Expected ROAS**: 2.16
 - **Conversion Rate Used**: 2% (as per assignment)
-- **Total Budget Allocation**: $9.79
+- **Total Budget Allocation**: $6.59
 
 #### **Priority Distribution**
 
@@ -67,7 +67,7 @@ adjusted_cpc = target_cpc * competition_modifier * intent_modifier * volume_modi
 
 #### **1. Shopping CPC Data (`output/shopping_cpc.csv`)**
 
-Contains 192 rows with the following columns:
+Contains 206 rows with the following columns:
 
 - `keyword`: Keyword text
 - `search_volume`: Monthly search volume
@@ -88,19 +88,19 @@ Contains 192 rows with the following columns:
 
 ```json
 {
-  "total_keywords": 192,
+  "total_keywords": 206,
   "average_target_cpc": 1.0,
-  "average_adjusted_cpc": 0.98,
-  "average_expected_roas": 2.06,
+  "average_adjusted_cpc": 0.93,
+  "average_expected_roas": 2.16,
   "priority_distribution": {
     "medium": 143,
     "low": 49
   },
-  "total_budget_allocation": 9.79,
+  "total_budget_allocation": 6.59,
   "conversion_rate_used": 0.02,
   "shopping_budget": 15,
   "target_roas": 4.0,
-  "calculation_timestamp": "2025-08-08T14:40:36.672433"
+  "calculation_timestamp": "2025-08-08T22:53:14.989855"
 }
 ```
 

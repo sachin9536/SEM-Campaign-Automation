@@ -156,10 +156,10 @@ budgets:
   pmax_ads_budget: 100
 
 scraping:
-  use_selenium: false
+  use_selenium: false #keep false by default unless needed for essential JS-rendered content
 reports:
   use_ai_generation: true
 ads:
-  use_ai_generation: true
+  use_ai_generation: true #save tokens unless needed
 content_analyzer:
   use_ai_generation: true
