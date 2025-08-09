@@ -1,13 +1,13 @@
 # Shopping CPC Deliverable - Assignment Completion
 
-## ✅ **DELIVERABLE 3 COMPLETED: Shopping CPC Table**
+##  **DELIVERABLE 3 COMPLETED: Shopping CPC Table**
 
-### 🎯 **Assignment Requirement**
+### **Assignment Requirement**
 
 Create a dedicated Shopping CPC table using the assignment's formula:
 **Target CPC = (Target CPA) × (Conversion Rate)**
 
-### 📊 **Key Results**
+###  **Key Results**
 
 #### **Shopping CPC Calculations**
 
@@ -24,7 +24,7 @@ Create a dedicated Shopping CPC table using the assignment's formula:
 - **Low Priority**: 49 keywords (25.5%)
 - **High Priority**: 0 keywords (0%) - All keywords fell into medium/low categories
 
-### 🔧 **Implementation Details**
+###  **Implementation Details**
 
 #### **Formula Implementation**
 
@@ -63,7 +63,7 @@ adjusted_cpc = target_cpc * competition_modifier * intent_modifier * volume_modi
    - **Conservative**: High CPC (>$20)
    - **Balanced**: Standard approach
 
-### 📁 **Output Files Generated**
+###  **Output Files Generated**
 
 #### **1. Shopping CPC Data (`output/shopping_cpc.csv`)**
 
@@ -104,28 +104,28 @@ Contains 206 rows with the following columns:
 }
 ```
 
-### 🎯 **Assignment Compliance**
+###  **Assignment Compliance**
 
-#### ✅ **Formula Compliance**
+####  **Formula Compliance**
 
 - **Exact Formula Used**: `Target CPC = (Target CPA) × (Conversion Rate)`
 - **Conversion Rate**: 2% as specified in assignment
 - **Target CPA**: Calculated based on current CPC, competition, and commercial intent
 
-#### ✅ **Data Sources**
+####  **Data Sources**
 
 - **Google Keyword Planner CSV**: 349 keywords loaded
 - **Current CPC Data**: Used for base calculations
 - **Competition Levels**: From keyword planner data
 - **Commercial Intent**: Calculated based on keyword characteristics
 
-#### ✅ **Budget Considerations**
+####  **Budget Considerations**
 
 - **Shopping Budget**: $15 (from config)
 - **Budget Allocation**: Calculated per keyword based on volume and CPC
 - **Total Allocation**: $9.79 (65% of total budget)
 
-### 🚀 **Integration with Main Workflow**
+###  **Integration with Main Workflow**
 
 #### **Step 6: Shopping CPC Calculation**
 
@@ -150,7 +150,7 @@ if shopping_cpc_data:
     logger.info(f"Average Shopping CPC: ${avg_shopping_cpc:.2f}")
 ```
 
-### 📈 **Performance Insights**
+###  **Performance Insights**
 
 #### **Top Performing Keywords**
 
@@ -171,7 +171,7 @@ if shopping_cpc_data:
    - Expected ROAS: 2.06
    - Total budget allocation: $9.79 (65% of $15 budget)
 
-### 🎯 **Strategic Recommendations**
+###  **Strategic Recommendations**
 
 #### **Immediate Actions**
 
@@ -185,13 +185,13 @@ if shopping_cpc_data:
 2. **Bid Adjustments**: Refine based on real performance data
 3. **Keyword Expansion**: Use successful keywords to find similar opportunities
 
-### ✅ **Assignment Completion Status**
+###  **Assignment Completion Status**
 
 | Deliverable                                  | Status          | Completion |
 | -------------------------------------------- | --------------- | ---------- |
-| **Deliverable 1**: Search Campaign Ad Groups | ✅ COMPLETE     | 100%       |
-| **Deliverable 2**: PMax Themes               | ✅ COMPLETE     | 100%       |
-| **Deliverable 3**: Shopping CPC Table        | ✅ **COMPLETE** | **100%**   |
+| **Deliverable 1**: Search Campaign Ad Groups |  COMPLETE     | 100%       |
+| **Deliverable 2**: PMax Themes               |  COMPLETE     | 100%       |
+| **Deliverable 3**: Shopping CPC Table        |  **COMPLETE** | **100%**   |
 
 ### 🎉 **Final Result**
 
@@ -199,10 +199,10 @@ if shopping_cpc_data:
 
 The Shopping CPC calculator now provides:
 
-- ✅ **Exact formula compliance** with assignment requirements
-- ✅ **Comprehensive data analysis** for 192 keywords
-- ✅ **Strategic recommendations** for bidding and budget allocation
-- ✅ **Integration** with the main SEM automation workflow
-- ✅ **Professional output formats** (CSV + JSON summary)
+-  **Exact formula compliance** with assignment requirements
+-  **Comprehensive data analysis** for 192 keywords
+-  **Strategic recommendations** for bidding and budget allocation
+-  **Integration** with the main SEM automation workflow
+-  **Professional output formats** (CSV + JSON summary)
 
-**The SEM Campaign Automation Tool is now fully functional and assignment-compliant!** 🚀
+**The SEM Campaign Automation Tool is now fully functional and assignment-compliant!** 

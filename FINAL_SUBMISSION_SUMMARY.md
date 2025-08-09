@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 **Key Achievements**
+## **Key Achievements**
 
 ### **Technical Implementation**
 
@@ -61,7 +61,7 @@
 
 ---
 
-## 📁 **Submission Pack Contents**
+##  **Submission Pack Contents**
 
 ### **Core Deliverables**
 
@@ -85,7 +85,7 @@
 
 ---
 
-## 🎯 **How to Use This Submission**
+##  **How to Use This Submission**
 
 ### **For Reviewers**
 
@@ -110,7 +110,7 @@
 
 ---
 
-## 🔧 **Technical Highlights**
+##  **Technical Highlights**
 
 ### **Innovative Features**
 
@@ -130,7 +130,7 @@
 
 ---
 
-## 📊 **Performance Summary**
+##  **Performance Summary**
 
 ### **Search Campaign Performance**
 
@@ -189,7 +189,7 @@
 - Assignment requirements fully met
 - Code quality and best practices implemented
 
-**The SEM Campaign Automation Tool is now ready for submission and review!** 🚀
+**The SEM Campaign Automation Tool is now ready for submission and review!** 
 
 ---
 
