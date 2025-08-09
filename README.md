@@ -13,7 +13,7 @@ A comprehensive Python-based tool for automating Search Engine Marketing (SEM) c
 ## Project Structure
 
 ```
-SEM_by_claude/
+SEM_tool/
 ├── main.py                   # Main entry point
 ├── config.yaml               # Configuration file
 ├── input/keyword_planner.csv # to input keyword csv file of the brand generate it with google ads Keyword planner (Note :- please keep the csv file name same as  keyword_planner.csv)
@@ -38,7 +38,7 @@ SEM_by_claude/
 
    ```bash
    git clone <repository-url>
-   cd SEM_by_claude
+   cd SEM_tool
    ```
 
 2. **Install Python dependencies**
