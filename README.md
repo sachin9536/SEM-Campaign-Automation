@@ -73,7 +73,7 @@ GOOGLE_API_KEY=your_gemini_api_key_here
 # OpenAI API (for AI-powered keyword and ad generation)
 OPENAI_API_KEY=your_openai_api_key_here
 
-# Google Ads API (for campaign creation)(Optional currently not required used for future)
+# Google Ads API (for campaign creation)(Optional currently not required used for future reference)
 GOOGLE_ADS_CLIENT_ID=your_google_ads_client_id_here
 GOOGLE_ADS_CLIENT_SECRET=your_google_ads_client_secret_here
 GOOGLE_ADS_DEVELOPER_TOKEN=your_google_ads_developer_token_here
