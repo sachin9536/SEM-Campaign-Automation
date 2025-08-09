@@ -13,7 +13,11 @@ A comprehensive Python-based tool for automating Search Engine Marketing (SEM) c
 ## Project Structure
 
 ```
+<<<<<<< HEAD
 SEM/
+=======
+SEM_tool/
+>>>>>>> 8da4f78386779ea55cf2e9d29664c4afea16f0ef
 ├── main.py                   # Main entry point
 ├── config.yaml               # Configuration file
 ├── input/keyword_planner.csv # to input keyword csv file of the brand generate it with google ads Keyword planner (Note :- please keep the csv file name same as  keyword_planner.csv)
@@ -38,7 +42,11 @@ SEM/
 
    ```bash
    git clone <repository-url>
+<<<<<<< HEAD
    cd SEM
+=======
+   cd SEM_tool
+>>>>>>> 8da4f78386779ea55cf2e9d29664c4afea16f0ef
    ```
 
 2. **Install Python dependencies**
@@ -73,7 +81,7 @@ GOOGLE_API_KEY=your_gemini_api_key_here
 # OpenAI API (for AI-powered keyword and ad generation)
 OPENAI_API_KEY=your_openai_api_key_here
 
-# Google Ads API (for campaign creation)(Optional currently not required used for future)
+# Google Ads API (for campaign creation)(Optional currently not required used for future reference)
 GOOGLE_ADS_CLIENT_ID=your_google_ads_client_id_here
 GOOGLE_ADS_CLIENT_SECRET=your_google_ads_client_secret_here
 GOOGLE_ADS_DEVELOPER_TOKEN=your_google_ads_developer_token_here
